@@ -1,0 +1,26 @@
+:root {
+  --color-bg: #010101;
+  --color-text-primary: #ffffff;
+  --color-text-muted: rgba(255, 255, 255, 0.8);
+  --color-text-dim: rgba(255, 255, 255, 0.6);
+  --color-text-faded: rgba(255, 255, 255, 0.4);
+
+  --color-pill-bg: rgba(32, 32, 32, 0.2);
+  --color-pill-border: rgba(255, 255, 255, 0.15);
+  --color-pill-active-bg: #c4f8c0;
+  --color-pill-icon-bg: rgba(173, 173, 173, 0.2);
+
+  --color-footer-card: rgba(255, 255, 255, 0.05);
+  --color-footer-link: #888780;
+
+  --pill-blur: 20px;
+  --pill-radius-outer: 16px;
+  --pill-radius-inner: 12px;
+  --pill-radius-text: 23px;
+
+  --hero-height: 100vh;
+  --section-height: 100vh;
+  --design-width: 1440px;
+
+  --font-display: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Helvetica Neue', Arial, sans-serif;
+}

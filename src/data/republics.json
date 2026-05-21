@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ingushetia",
+    "number": "01",
+    "name": "Ингушетия",
+    "image": "/images/history/ingushetia.png",
+    "description": "Регион с древними башенными комплексами, отражающими богатое историческое наследие и традиции горцев"
+  },
+  {
+    "id": "chechnya",
+    "number": "02",
+    "name": "Чечня",
+    "image": "/images/history/chechnya.png",
+    "description": "Земля величественных пейзажей и знаковых памятников, хранящая память о героическом прошлом и самобытных"
+  },
+  {
+    "id": "dagestan",
+    "number": "03",
+    "name": "Дагестан",
+    "image": "/images/history/dagestan.png",
+    "description": "Потрясающей природы: горные реки, ущелья и лазурные воды, где переплетаются культуры народов"
+  },
+  {
+    "id": "kabardino-balkaria",
+    "number": "04",
+    "name": "Кабардино-Балкария",
+    "image": "/images/history/kabardino-balkaria.png",
+    "description": "Сочетает архитектурную красоту и природные богатства: от храмовых комплексов до живописных горных ландшафтов"
+  },
+  {
+    "id": "karachay-cherkessia",
+    "number": "05",
+    "name": "Карачаево-Черкесия",
+    "image": "/images/history/karachay-cherkessia.png",
+    "description": "Регион с завораживающими видами и древними крепостями, рассказывающими о прошлом"
+  },
+  {
+    "id": "north-ossetia",
+    "number": "06",
+    "name": "Северная Осетия",
+    "image": "/images/history/north-ossetia.png",
+    "description": "Субъект Российской Федерации. Входит в состав Северо-Кавказского федерального округа"
+  }
+]

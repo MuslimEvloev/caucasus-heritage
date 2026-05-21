@@ -1,0 +1,127 @@
+.header {
+  position: absolute;
+  top: 28px;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 28px;
+  pointer-events: none;
+}
+
+.header > * {
+  pointer-events: auto;
+}
+
+.header__pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px;
+  border: 0.5px solid var(--color-pill-border);
+  border-radius: var(--pill-radius-outer);
+  backdrop-filter: blur(var(--pill-blur));
+  -webkit-backdrop-filter: blur(var(--pill-blur));
+}
+
+.header--dark .header__pill {
+  background: var(--color-pill-bg);
+}
+
+.header--light .header__pill {
+  background: rgba(173, 173, 173, 0.2);
+  border-color: rgba(0, 0, 0, 0.05);
+}
+
+.header__nav-pill {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  transform: translateX(-50%);
+}
+
+.header__inner-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 30px;
+  padding: 6px 10px;
+  border-radius: var(--pill-radius-inner);
+  font-family: var(--font-display);
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  line-height: 1;
+  white-space: nowrap;
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+.header--dark .header__inner-pill {
+  color: var(--color-text-primary);
+}
+
+.header--light .header__inner-pill {
+  color: #342c2c;
+}
+
+.header__logo-pill .header__inner-pill,
+.header__user-pill .header__inner-pill--text {
+  border-radius: var(--pill-radius-text);
+}
+
+.header__inner-pill sup {
+  font-size: 0.6em;
+  vertical-align: super;
+  margin-left: 1px;
+}
+
+.header--dark .header__inner-pill:hover {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.header--light .header__inner-pill:hover {
+  background: rgba(0, 0, 0, 0.06);
+}
+
+.header__inner-pill.is-active {
+  background: var(--color-pill-active-bg) !important;
+  color: #000 !important;
+}
+
+.header__inner-pill--icon {
+  width: 30px;
+  height: 30px;
+  padding: 6px;
+  border-radius: var(--pill-radius-inner);
+  background: var(--color-pill-icon-bg);
+}
+
+.header--light .header__inner-pill--icon {
+  color: #342c2c;
+}
+
+@media (max-width: 1100px) {
+  .header {
+    padding: 0 20px;
+    top: 20px;
+  }
+}
+
+@media (max-width: 768px) {
+  .header__nav-pill {
+    display: none;
+  }
+}
+
+@media (max-width: 640px) {
+  .header {
+    padding: 0 16px;
+    top: 16px;
+  }
+  .header__inner-pill {
+    font-size: 14px;
+    padding: 6px 8px;
+  }
+}
