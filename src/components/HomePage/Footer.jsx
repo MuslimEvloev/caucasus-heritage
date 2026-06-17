@@ -1,16 +1,14 @@
+import { useLang } from '../../i18n/LanguageContext.jsx';
 import './Footer.css';
 
 export default function Footer({ theme = 'light' }) {
+  const { t } = useLang();
   return (
     <footer className={'footer footer--' + theme}>
       <div className="footer__inner">
         <div className="footer__card footer__card--about">
-          <h2 className="footer__title">О проекте</h2>
-          <p className="footer__text">
-            Caucasus Heritage — проект о культурном и историческом наследии
-            Северного Кавказа: архитектурные памятники, традиционная кухня и
-            туристические маршруты республик региона.
-          </p>
+          <h2 className="footer__title">{t('footer.aboutTitle')}</h2>
+          <p className="footer__text">{t('footer.aboutText')}</p>
         </div>
 
         <div className="footer__card footer__card--contacts">
@@ -30,10 +28,8 @@ export default function Footer({ theme = 'light' }) {
       </div>
 
       <div className="footer__meta">
-        <p className="footer__copy">© Caucasus Heritage, 2026</p>
-        <p className="footer__links">
-          Контакты&nbsp;·&nbsp;О проекте&nbsp;·&nbsp;Политика конфиденциальности
-        </p>
+        <p className="footer__copy">{t('footer.copy')}</p>
+        <p className="footer__links">{t('footer.links')}</p>
       </div>
     </footer>
   );

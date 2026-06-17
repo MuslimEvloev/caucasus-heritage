@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ingushetia",
+    "name": "Ingushetia",
+    "image": "/images/kitchen/ingushetia.jpg",
+    "flag": "/images/flags/ingushetia.png",
+    "description": "Hearty, distinctive highland cuisine — chapilgash, dulkh-khaltam and meat dishes with spicy sauces. Simple ingredients prepared by recipes passed down for centuries"
+  },
+  {
+    "id": "chechnya",
+    "name": "Chechnya",
+    "image": "/images/kitchen/chechnya.jpg",
+    "flag": "/images/flags/chechnya.png",
+    "description": "Zhizhig-galnash, chepalgash and rich broth are the heart of the Chechen table. The cuisine is filling and unadorned, yet every dish is about real taste"
+  },
+  {
+    "id": "dagestan",
+    "name": "Dagestan",
+    "image": "/images/kitchen/dagestan.jpg",
+    "flag": "/images/flags/dagestan.png",
+    "description": "The most multi-ethnic region of the Caucasus — and the cuisine matches it. Khinkal, chudu, kurze — each people of Dagestan added something of its own"
+  },
+  {
+    "id": "kabardino-balkaria",
+    "name": "Kabardino-Balkaria",
+    "image": "/images/kitchen/kabardino-balkaria.jpg",
+    "flag": "/images/flags/kabardino-balkaria.png",
+    "description": "Lyagur, khychyns with cheese and potato, ayran — the cuisine of the Balkars and Kabardians looks simple but is rich in flavour"
+  },
+  {
+    "id": "karachay-cherkessia",
+    "name": "Karachay-Cherkessia",
+    "image": "/images/kitchen/karachay-cherkessia.jpg",
+    "flag": "/images/flags/karachay-cherkessia.png",
+    "description": "Khychyns here are the main dish and a reason to gather the whole family. Plus ayran, lamb and pastries made from mountain flour"
+  },
+  {
+    "id": "north-ossetia",
+    "name": "North Ossetia",
+    "image": "/images/kitchen/north-ossetia.jpg",
+    "flag": "/images/flags/north-ossetia.png",
+    "description": "Ossetian pies with various fillings are not just food but part of the culture. Three pies on the table are a sign of respect and good wishes"
+  }
+]

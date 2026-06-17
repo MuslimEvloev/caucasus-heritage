@@ -1,7 +1,9 @@
 import Header from './Header.jsx';
+import { useLang } from '../../i18n/LanguageContext.jsx';
 import './Hero.css';
 
 export default function Hero() {
+  const { t } = useLang();
   return (
     <section className="hero">
       <div className="hero__bg" />
@@ -11,13 +13,10 @@ export default function Hero() {
 
       <div className="hero__title">
         <h1 className="hero__heading">
-          <span className="hero__heading-line">Культурное наследие</span>
-          <span className="hero__heading-line hero__heading-secondary">Северного Кавказа</span>
+          <span className="hero__heading-line">{t('hero.line1')}</span>
+          <span className="hero__heading-line hero__heading-secondary">{t('hero.line2')}</span>
         </h1>
-        <p className="hero__subtitle">
-          Путеводитель по историко-культурному наследию республик Северного
-          Кавказа. Маршруты, история, национальная кухня — всё в одном месте
-        </p>
+        <p className="hero__subtitle">{t('hero.subtitle')}</p>
       </div>
 
       <a
@@ -29,7 +28,7 @@ export default function Hero() {
         }}
       >
         <span className="hero__cta">
-          <span className="hero__cta-text">Начать исследовать</span>
+          <span className="hero__cta-text">{t('hero.cta')}</span>
           <span className="hero__cta-icon" aria-hidden="true">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#fff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
               <line x1="12" y1="5" x2="12" y2="19" />

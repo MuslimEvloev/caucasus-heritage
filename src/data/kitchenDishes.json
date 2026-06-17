@@ -1,0 +1,38 @@
+{
+  "ingushetia": [
+    { "id": "dulkh-khaltam", "name": "Дулх-халтам", "image": "/images/dishes/dulkh-khaltam.jpg", "description": "Отварное мясо с галушками и ароматным чесночным бульоном — главное праздничное блюдо." },
+    { "id": "chapilgash", "name": "Чапильгаш", "image": "/images/dishes/chepalgash.jpg", "description": "Тонкие лепёшки с творогом или картофелем, обжаренные и смазанные маслом." },
+    { "id": "hovla", "name": "Хьовла (халва)", "image": "/images/dishes/hovla.jpg", "description": "Национальная халва из обжаренной муки, топлёного масла и сахарного сиропа — обязательное угощение на торжествах." },
+    { "id": "berkh", "name": "Берх", "image": "/images/dishes/berkh.jpg", "description": "Сытная мучная каша-затируха, традиционная горская еда на каждый день." }
+  ],
+  "chechnya": [
+    { "id": "zhizhig-galnash", "name": "Жижиг-галнаш", "image": "/images/dishes/zhizhig-galnash.jpg", "description": "Визитная карточка чеченской кухни: мясо, галушки и острый чесночный соус берам." },
+    { "id": "chepalgash", "name": "Чепалгаш", "image": "/images/dishes/chepalgash.jpg", "description": "Тонкие лепёшки с творогом и зеленью, обильно смазанные топлёным маслом." },
+    { "id": "hingalsh", "name": "Хингалш", "image": "/images/dishes/hingalsh.jpg", "description": "Сладкие лепёшки с начинкой из тыквы — традиционная домашняя выпечка." },
+    { "id": "akh-chepalgash", "name": "Ахар-хьалтам", "image": "/images/dishes/akh-chepalgash.jpg", "description": "Кукурузные галушки с сыром и творогом, подаются горячими к бульону." }
+  ],
+  "dagestan": [
+    { "id": "khinkal", "name": "Хинкал", "image": "/images/dishes/khinkal.jpg", "description": "Не путать с хинкали: кусочки теста с мясом, бульоном и чесночным соусом. У каждого народа свой." },
+    { "id": "chudu", "name": "Чуду", "image": "/images/dishes/chudu.jpg", "description": "Тонкие пироги с мясом, творогом, зеленью или тыквой, жаренные на сухой сковороде." },
+    { "id": "kurze", "name": "Курзе", "image": "/images/dishes/kurze.jpg", "description": "Дагестанские «пельмени» с мясом, яйцом или творогом, защипанные косичкой." },
+    { "id": "urbech", "name": "Урбеч", "image": "/images/dishes/urbech.jpg", "description": "Паста из перетёртых семян льна или абрикосовых косточек с мёдом и маслом." }
+  ],
+  "kabardino-balkaria": [
+    { "id": "hychiny", "name": "Хычины", "image": "/images/dishes/hychiny.jpg", "description": "Тонкие лепёшки с сыром, картофелем или мясом — главное блюдо балкарского стола." },
+    { "id": "lyagur", "name": "Лягур", "image": "/images/dishes/lyagur.jpg", "description": "Вяленое мясо, заготавливаемое впрок; основа сытных горских блюд." },
+    { "id": "gedlibzhe", "name": "Гедлибже", "image": "/images/dishes/gedlibzhe.jpg", "description": "Кабардинская курица в нежном сметанно-чесночном соусе." },
+    { "id": "ayran", "name": "Айран", "image": "/images/dishes/ayran.jpg", "description": "Кисломолочный напиток, незаменимый спутник горской трапезы." }
+  ],
+  "karachay-cherkessia": [
+    { "id": "hychiny", "name": "Хычины", "image": "/images/dishes/hychiny.jpg", "description": "Карачаевские хычины с картофелем и сыром — повод собраться всей семьёй." },
+    { "id": "sohta", "name": "Сохта", "image": "/images/dishes/sohta.jpg", "description": "Домашняя колбаса из печени и курдючного жира с приправами." },
+    { "id": "shorpa", "name": "Шорпа", "image": "/images/dishes/shorpa.jpg", "description": "Наваристый мясной суп из баранины с овощами и зеленью." },
+    { "id": "lokumy", "name": "Локумы", "image": "/images/dishes/lokumy.jpg", "description": "Пышные жареные пончики из дрожжевого теста к чаю и айрану." }
+  ],
+  "north-ossetia": [
+    { "id": "ossetian-pies", "name": "Осетинские пироги", "image": "/images/dishes/ossetian-pies.jpg", "description": "Уалибах с сыром, картофджын с картофелем, цахараджын со свекольной ботвой. Три пирога — знак уважения." },
+    { "id": "dzykka", "name": "Дзыкка", "image": "/images/dishes/dzykka.jpg", "description": "Густая каша из свежего сыра и кукурузной муки на топлёном масле." },
+    { "id": "lyvzha", "name": "Лывжа", "image": "/images/dishes/lyvzha.jpg", "description": "Тушёная курица или баранина в остром соусе с чесноком и специями." },
+    { "id": "tsakhdon", "name": "Цахдон", "image": "/images/dishes/tsakhdon.jpg", "description": "Острый соус из сметаны, чеснока и аджики — подаётся к мясу и пирогам." }
+  ]
+}

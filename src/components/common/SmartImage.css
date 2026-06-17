@@ -1,0 +1,36 @@
+.smart-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.smart-image--fallback {
+  display: flex;
+  align-items: flex-end;
+  padding: 14px;
+  background:
+    radial-gradient(120% 120% at 20% 10%, rgba(196, 248, 192, 0.35) 0%, rgba(196, 248, 192, 0) 55%),
+    linear-gradient(155deg, #e9ece8 0%, #d7dcd6 45%, #c5ccc4 100%);
+  color: rgba(28, 28, 28, 0.78);
+}
+
+.smart-image--fallback.smart-image--natural {
+  background:
+    radial-gradient(120% 120% at 20% 10%, rgba(180, 226, 200, 0.5) 0%, rgba(180, 226, 200, 0) 55%),
+    linear-gradient(155deg, #e4ece6 0%, #cdded3 50%, #b9cdc1 100%);
+}
+
+.smart-image--fallback.smart-image--cultural {
+  background:
+    radial-gradient(120% 120% at 20% 10%, rgba(231, 214, 184, 0.55) 0%, rgba(231, 214, 184, 0) 55%),
+    linear-gradient(155deg, #efe9e1 0%, #e0d6c6 50%, #cfc2ad 100%);
+}
+
+.smart-image__label {
+  font-family: var(--font-display);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+}

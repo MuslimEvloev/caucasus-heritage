@@ -1,0 +1,38 @@
+{
+  "ingushetia": [
+    { "id": "dulkh-khaltam", "name": "Dulkh-khaltam", "image": "/images/dishes/dulkh-khaltam.jpg", "description": "Boiled meat with dumplings and an aromatic garlic broth — the main festive dish." },
+    { "id": "chapilgash", "name": "Chapilgash", "image": "/images/dishes/chepalgash.jpg", "description": "Thin flatbreads filled with curd or potato, fried and brushed with butter." },
+    { "id": "hovla", "name": "Hovla (halva)", "image": "/images/dishes/hovla.jpg", "description": "National halva made of roasted flour, clarified butter and sugar syrup — a must-have treat at celebrations." },
+    { "id": "berkh", "name": "Berkh", "image": "/images/dishes/berkh.jpg", "description": "A hearty flour porridge, an everyday highland staple." }
+  ],
+  "chechnya": [
+    { "id": "zhizhig-galnash", "name": "Zhizhig-galnash", "image": "/images/dishes/zhizhig-galnash.jpg", "description": "The signature Chechen dish: meat, dumplings and a sharp garlic sauce called beram." },
+    { "id": "chepalgash", "name": "Chepalgash", "image": "/images/dishes/chepalgash.jpg", "description": "Thin flatbreads with curd and herbs, generously brushed with melted butter." },
+    { "id": "hingalsh", "name": "Hingalsh", "image": "/images/dishes/hingalsh.jpg", "description": "Sweet flatbreads filled with pumpkin — a traditional homemade pastry." },
+    { "id": "akh-chepalgash", "name": "Akhar-khaltam", "image": "/images/dishes/akh-chepalgash.jpg", "description": "Corn dumplings with cheese and curd, served hot with broth." }
+  ],
+  "dagestan": [
+    { "id": "khinkal", "name": "Khinkal", "image": "/images/dishes/khinkal.jpg", "description": "Not to be confused with khinkali: pieces of dough with meat, broth and garlic sauce. Each people has its own version." },
+    { "id": "chudu", "name": "Chudu", "image": "/images/dishes/chudu.jpg", "description": "Thin pies with meat, curd, herbs or pumpkin, dry-fried in a pan." },
+    { "id": "kurze", "name": "Kurze", "image": "/images/dishes/kurze.jpg", "description": "Dagestani \"dumplings\" with meat, egg or curd, sealed with a braided edge." },
+    { "id": "urbech", "name": "Urbech", "image": "/images/dishes/urbech.jpg", "description": "A paste of ground flax or apricot kernels with honey and butter." }
+  ],
+  "kabardino-balkaria": [
+    { "id": "hychiny", "name": "Khychyns", "image": "/images/dishes/hychiny.jpg", "description": "Thin flatbreads with cheese, potato or meat — the main dish of the Balkar table." },
+    { "id": "lyagur", "name": "Lyagur", "image": "/images/dishes/lyagur.jpg", "description": "Dried meat prepared for storage; the base of hearty highland dishes." },
+    { "id": "gedlibzhe", "name": "Gedlibzhe", "image": "/images/dishes/gedlibzhe.jpg", "description": "Kabardian chicken in a tender sour-cream and garlic sauce." },
+    { "id": "ayran", "name": "Ayran", "image": "/images/dishes/ayran.jpg", "description": "A fermented milk drink, an indispensable companion of the highland meal." }
+  ],
+  "karachay-cherkessia": [
+    { "id": "hychiny", "name": "Khychyns", "image": "/images/dishes/hychiny.jpg", "description": "Karachay khychyns with potato and cheese — a reason to gather the whole family." },
+    { "id": "sohta", "name": "Sohta", "image": "/images/dishes/sohta.jpg", "description": "Homemade sausage of liver and tail fat with spices." },
+    { "id": "shorpa", "name": "Shorpa", "image": "/images/dishes/shorpa.jpg", "description": "A rich lamb soup with vegetables and herbs." },
+    { "id": "lokumy", "name": "Lokums", "image": "/images/dishes/lokumy.jpg", "description": "Fluffy fried doughnuts of yeast dough served with tea and ayran." }
+  ],
+  "north-ossetia": [
+    { "id": "ossetian-pies", "name": "Ossetian pies", "image": "/images/dishes/ossetian-pies.jpg", "description": "Ualibakh with cheese, kartofdzhyn with potato, tsakharadzhyn with beet leaves. Three pies are a sign of respect." },
+    { "id": "dzykka", "name": "Dzykka", "image": "/images/dishes/dzykka.jpg", "description": "A thick porridge of fresh cheese and cornmeal cooked in clarified butter." },
+    { "id": "lyvzha", "name": "Lyvzha", "image": "/images/dishes/lyvzha.jpg", "description": "Stewed chicken or lamb in a spicy sauce with garlic and seasonings." },
+    { "id": "tsakhdon", "name": "Tsakhdon", "image": "/images/dishes/tsakhdon.jpg", "description": "A spicy sauce of sour cream, garlic and adjika — served with meat and pies." }
+  ]
+}

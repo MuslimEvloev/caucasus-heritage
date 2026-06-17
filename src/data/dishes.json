@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "ingushetia",
+    "name": "Ингушетия",
+    "image": "/images/kitchen/ingushetia.jpg",
+    "flag": "/images/flags/ingushetia.png",
+    "description": "Сытная и самобытная кухня горцев — чапильгаш, дулх-халтам и мясные блюда с острыми соусами. Простые ингредиенты, которые готовятся по рецептам, передающимся веками"
+  },
+  {
+    "id": "chechnya",
+    "name": "Чечня",
+    "image": "/images/kitchen/chechnya.jpg",
+    "flag": "/images/flags/chechnya.png",
+    "description": "Жижиг-галнаш, чепалгаш и жирный бульон — основа чеченского стола. Кухня сытная, без лишних украшений, зато каждое блюдо — про настоящий вкус"
+  },
+  {
+    "id": "dagestan",
+    "name": "Дагестан",
+    "image": "/images/kitchen/dagestan.jpg",
+    "flag": "/images/flags/dagestan.png",
+    "description": "Самый многонациональный регион Кавказа — и кухня здесь соответствующая. Хинкал, чуду, курзе — каждый народ Дагестана привнёс своё"
+  },
+  {
+    "id": "kabardino-balkaria",
+    "name": "Кабардино-Балкария",
+    "image": "/images/kitchen/kabardino-balkaria.jpg",
+    "flag": "/images/flags/kabardino-balkaria.png",
+    "description": "Лягур, хычины с сыром и картофелем, айран — кухня балкарцев и кабардинцев простая по виду, но насыщенная по вкусу"
+  },
+  {
+    "id": "karachay-cherkessia",
+    "name": "Карачаево-Черкесия",
+    "image": "/images/kitchen/karachay-cherkessia.jpg",
+    "flag": "/images/flags/karachay-cherkessia.png",
+    "description": "Хычины здесь — главное блюдо и повод собраться всей семьёй. Плюс айран, баранина и выпечка из горной муки"
+  },
+  {
+    "id": "north-ossetia",
+    "name": "Северная Осетия",
+    "image": "/images/kitchen/north-ossetia.jpg",
+    "flag": "/images/flags/north-ossetia.png",
+    "description": "Осетинские пироги с разными начинками — это не просто еда, а часть культуры. Три пирога на столе — знак уважения и добрых пожеланий"
+  }
+]

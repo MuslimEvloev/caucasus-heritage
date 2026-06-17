@@ -1,0 +1,247 @@
+/* ============================================================
+   Тёмная тема (требование ВКР, раздел «Технические требования»:
+   переключение темы светлая/тёмная). Активируется атрибутом
+   data-theme="dark" на <html>. Контрастность ≥ 4.5:1.
+   ============================================================ */
+
+[data-theme='dark'] {
+  --pg: #0e0f12;        /* фон страницы */
+  --surf: #181a1f;      /* карточки */
+  --surf2: #20242b;     /* вторичные плашки */
+  --tp: #ededf0;        /* основной текст */
+  --ts: rgba(237, 237, 240, 0.64); /* вторичный текст */
+  --td: rgba(237, 237, 240, 0.42); /* приглушённый текст */
+  --bd: rgba(255, 255, 255, 0.10); /* границы */
+  color-scheme: dark;
+}
+
+[data-theme='dark'] html,
+[data-theme='dark'] body {
+  background: var(--pg);
+  color: var(--tp);
+}
+
+/* ---- Page wrappers ---- */
+[data-theme='dark'] .home-page,
+[data-theme='dark'] .history-page,
+[data-theme='dark'] .kitchen-page,
+[data-theme='dark'] .route-builder,
+[data-theme='dark'] .detail-page {
+  background: var(--pg);
+  color: var(--tp);
+}
+
+/* ---- Listing page headings ---- */
+[data-theme='dark'] .history-page__title,
+[data-theme='dark'] .kitchen-page__title,
+[data-theme='dark'] .history-page__title-line,
+[data-theme='dark'] .kitchen-page__title-line {
+  color: var(--tp);
+}
+
+[data-theme='dark'] .history-page__title-line--secondary,
+[data-theme='dark'] .kitchen-page__title-line--secondary,
+[data-theme='dark'] .history-page__lead,
+[data-theme='dark'] .kitchen-page__lead {
+  color: var(--ts);
+}
+
+[data-theme='dark'] .history-page__divider,
+[data-theme='dark'] .kitchen-page__divider {
+  border-top-color: var(--bd);
+}
+
+/* ---- Breadcrumbs ---- */
+[data-theme='dark'] .breadcrumbs {
+  color: var(--ts);
+}
+[data-theme='dark'] .breadcrumbs__link:hover {
+  color: var(--tp);
+}
+[data-theme='dark'] .breadcrumbs__sep {
+  color: var(--td);
+}
+
+/* ---- Listing cards (republic / dish) ---- */
+[data-theme='dark'] .republic-card,
+[data-theme='dark'] .dish-card {
+  background: var(--surf);
+}
+[data-theme='dark'] .republic-card__name,
+[data-theme='dark'] .dish-card__name {
+  color: var(--tp);
+}
+[data-theme='dark'] .republic-card__description,
+[data-theme='dark'] .dish-card__description,
+[data-theme='dark'] .republic-card__number {
+  color: var(--ts);
+}
+
+/* ---- Detail page ---- */
+[data-theme='dark'] .detail-lead {
+  color: var(--tp);
+}
+[data-theme='dark'] .detail-sections {
+  border-top-color: var(--bd);
+}
+[data-theme='dark'] .detail-section__title,
+[data-theme='dark'] .detail-block-title {
+  color: var(--tp);
+}
+[data-theme='dark'] .detail-section__text,
+[data-theme='dark'] .detail-block-count {
+  color: var(--ts);
+}
+
+/* timeline */
+[data-theme='dark'] .timeline::before {
+  background: linear-gradient(180deg, #2f9e6f 0%, var(--bd) 100%);
+}
+[data-theme='dark'] .timeline__dot {
+  background: var(--pg);
+}
+[data-theme='dark'] .timeline__title {
+  color: var(--tp);
+}
+[data-theme='dark'] .timeline__text {
+  color: var(--ts);
+}
+
+/* thematic blocks */
+[data-theme='dark'] .history-block {
+  border-top-color: var(--bd);
+}
+[data-theme='dark'] .history-block__title {
+  color: var(--tp);
+}
+[data-theme='dark'] .history-block__text p {
+  color: var(--ts);
+}
+
+/* figures, facts */
+[data-theme='dark'] .figure-card,
+[data-theme='dark'] .fact-card {
+  background: var(--surf);
+}
+[data-theme='dark'] .figure-card__name {
+  color: var(--tp);
+}
+[data-theme='dark'] .figure-card__years {
+  color: var(--td);
+}
+[data-theme='dark'] .figure-card__text,
+[data-theme='dark'] .fact-card__text {
+  color: var(--ts);
+}
+
+/* objects + dish photo cards + dish list + restaurants */
+[data-theme='dark'] .object-card,
+[data-theme='dark'] .dish-photo-card,
+[data-theme='dark'] .dish-item,
+[data-theme='dark'] .resto-card {
+  background: var(--surf);
+}
+[data-theme='dark'] .object-card__name,
+[data-theme='dark'] .dish-photo-card__name,
+[data-theme='dark'] .dish-item__name,
+[data-theme='dark'] .resto-card__name {
+  color: var(--tp);
+}
+[data-theme='dark'] .object-card__desc,
+[data-theme='dark'] .object-card__type,
+[data-theme='dark'] .dish-photo-card__desc,
+[data-theme='dark'] .dish-item__desc,
+[data-theme='dark'] .resto-card__specialty {
+  color: var(--ts);
+}
+[data-theme='dark'] .resto-card__address {
+  color: var(--td);
+}
+
+/* ---- Route builder ---- */
+[data-theme='dark'] .route-builder__title {
+  color: var(--tp);
+}
+[data-theme='dark'] .route-builder__subtitle {
+  color: var(--ts);
+}
+[data-theme='dark'] .route-builder__btn--ghost {
+  background: var(--surf2);
+  color: var(--tp);
+}
+[data-theme='dark'] .route-builder__btn--ghost .route-builder__btn-icon {
+  background: rgba(255, 255, 255, 0.08);
+}
+[data-theme='dark'] .route-params {
+  background: var(--surf);
+}
+[data-theme='dark'] .route-params__title,
+[data-theme='dark'] .route-params__value {
+  color: var(--tp);
+}
+[data-theme='dark'] .route-params__row {
+  color: var(--ts);
+}
+
+/* ---- Footer (light variant goes dark) ---- */
+[data-theme='dark'] .footer--light {
+  background: #0a0b0d;
+  color: var(--tp);
+}
+[data-theme='dark'] .footer--light .footer__title {
+  color: var(--tp);
+}
+[data-theme='dark'] .footer--light .footer__text,
+[data-theme='dark'] .footer--light .footer__copy,
+[data-theme='dark'] .footer--light .footer__links,
+[data-theme='dark'] .footer--light a {
+  color: var(--ts);
+}
+
+/* ---- Header light variant pills go dark ---- */
+[data-theme='dark'] .header--light .header__pill {
+  background: rgba(40, 42, 48, 0.55);
+  border-color: rgba(255, 255, 255, 0.12);
+}
+[data-theme='dark'] .header--light .header__inner-pill {
+  color: var(--tp);
+}
+[data-theme='dark'] .header--light .header__inner-pill:hover {
+  background: rgba(255, 255, 255, 0.10);
+}
+[data-theme='dark'] .header--light .header__inner-pill--icon {
+  background: rgba(255, 255, 255, 0.10);
+}
+[data-theme='dark'] .header--light .header__lang,
+[data-theme='dark'] .header--light .header__theme {
+  background: rgba(255, 255, 255, 0.10);
+}
+
+/* ---- SmartImage fallback ---- */
+[data-theme='dark'] .smart-image--fallback {
+  background: linear-gradient(155deg, #23262c 0%, #1a1d22 50%, #15171b 100%);
+  color: var(--ts);
+}
+
+/* ---- Reviews ---- */
+[data-theme='dark'] .reviews__title,
+[data-theme='dark'] .review-card__author {
+  color: var(--tp);
+}
+[data-theme='dark'] .reviews,
+[data-theme='dark'] .review-form,
+[data-theme='dark'] .review-card {
+  background: var(--surf);
+  border-color: var(--bd);
+}
+[data-theme='dark'] .review-form__textarea {
+  background: var(--surf2);
+  color: var(--tp);
+  border-color: var(--bd);
+}
+[data-theme='dark'] .review-card__text,
+[data-theme='dark'] .review-card__date,
+[data-theme='dark'] .reviews__empty,
+[data-theme='dark'] .review-form__label {
+  color: var(--ts);
+}

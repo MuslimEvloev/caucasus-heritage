@@ -1,0 +1,146 @@
+.route-map__canvas {
+  width: 100%;
+  height: 100%;
+  border-radius: 18px;
+  z-index: 1;
+}
+
+/* ===== Custom markers ===== */
+.route-marker-wrap {
+  background: transparent;
+  border: none;
+}
+
+.route-marker {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: #ffffff;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.18);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #ffffff;
+  transition: transform 0.15s ease;
+}
+
+.route-marker:hover {
+  transform: scale(1.08);
+}
+
+.route-marker--cultural {
+  color: #c08a2d;
+}
+
+.route-marker--natural {
+  color: #2f9e6f;
+}
+
+.route-marker__icon svg {
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+
+.route-marker--selected {
+  background: #1c1c1c;
+  border-color: #c4f8c0;
+  color: #c4f8c0;
+}
+
+.route-marker__badge {
+  font-family: var(--font-display);
+  font-size: 15px;
+  font-weight: 600;
+  color: #c4f8c0;
+}
+
+/* ===== Popup card ===== */
+.leaflet-popup-content-wrapper.route-popup,
+.route-popup .leaflet-popup-content-wrapper {
+  border-radius: 18px;
+  padding: 0;
+  overflow: hidden;
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.22);
+}
+
+.route-popup .leaflet-popup-content {
+  margin: 0;
+  width: 264px !important;
+}
+
+.route-popup .leaflet-popup-tip {
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.22);
+}
+
+.route-popup__card {
+  font-family: var(--font-display);
+}
+
+.route-popup__photo {
+  width: 100%;
+  height: 150px;
+  overflow: hidden;
+}
+
+.route-popup__photo .smart-image {
+  height: 150px;
+}
+
+.route-popup__body {
+  padding: 14px 16px 16px;
+}
+
+.route-popup__type {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: rgba(60, 60, 67, 0.5);
+}
+
+.route-popup__name {
+  font-size: 17px;
+  font-weight: 500;
+  letter-spacing: -0.02em;
+  color: #111;
+  margin: 4px 0 6px;
+  line-height: 1.15;
+}
+
+.route-popup__desc {
+  font-size: 13px;
+  line-height: 1.35;
+  letter-spacing: -0.01em;
+  color: rgba(60, 60, 67, 0.7);
+  margin: 0 0 12px;
+}
+
+.route-popup__btn {
+  width: 100%;
+  height: 40px;
+  border: none;
+  border-radius: 12px;
+  background: #c4f8c0;
+  color: #1c1c1c;
+  font-family: var(--font-display);
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  cursor: pointer;
+  transition: filter 0.2s ease;
+}
+
+.route-popup__btn:hover {
+  filter: brightness(0.96);
+}
+
+.route-popup__btn--remove {
+  background: #f0efed;
+  color: #842020;
+}
+
+/* Leaflet controls tidy-up */
+.leaflet-container {
+  font-family: var(--font-display);
+}

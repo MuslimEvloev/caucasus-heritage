@@ -1,9 +1,11 @@
 import { Link } from 'react-router-dom';
+import { useLang } from '../../i18n/LanguageContext.jsx';
 import './RepublicCard.css';
 
 export default function RepublicCard({ republic }) {
+  const { t } = useLang();
   return (
-    <Link to={`/history/${republic.id}`} className="republic-card" aria-label={`Подробнее: ${republic.name}`}>
+    <Link to={`/history/${republic.id}`} className="republic-card" aria-label={republic.name}>
       <div className="republic-card__face republic-card__face--default">
         <div className="republic-card__top">
           <span className="republic-card__number">{republic.number}</span>
@@ -31,7 +33,7 @@ export default function RepublicCard({ republic }) {
           {republic.number}
         </span>
         <span className="republic-card__cta">
-          <span className="republic-card__cta-text">Перейти</span>
+          <span className="republic-card__cta-text">{t('card.go')}</span>
           <span className="republic-card__cta-icon">
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#1c1c1c" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
               <line x1="5" y1="12" x2="19" y2="12" />

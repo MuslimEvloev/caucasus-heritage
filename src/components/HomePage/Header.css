@@ -102,6 +102,22 @@
   color: #342c2c;
 }
 
+.header__lang {
+  font-weight: 500;
+  letter-spacing: 0;
+  min-width: 34px;
+}
+
+.header--dark .header__lang,
+.header--dark .header__theme {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.header--light .header__lang,
+.header--light .header__theme {
+  background: rgba(0, 0, 0, 0.05);
+}
+
 @media (max-width: 1100px) {
   .header {
     padding: 0 20px;

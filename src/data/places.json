@@ -1,1 +1,377 @@
-[]
+[
+  {
+    "id": "derbent",
+    "republicId": "dagestan",
+    "name": "Цитадель Нарын-Кала",
+    "type": "cultural",
+    "coordinate": [42.0526, 48.2754],
+    "address": "Дербент",
+    "description": "Древнейшая крепость России IV–VI веков, ядро города Дербент. Объект Всемирного наследия ЮНЕСКО.",
+    "image": "/images/places/derbent.jpg"
+  },
+  {
+    "id": "sulak-canyon",
+    "republicId": "dagestan",
+    "name": "Сулакский каньон",
+    "type": "natural",
+    "coordinate": [43.0148, 46.8230],
+    "address": "Дубки",
+    "description": "Один из глубочайших каньонов мира (до 1920 м) с бирюзовой рекой Сулак на дне.",
+    "image": "/images/places/sulak-canyon.jpg"
+  },
+  {
+    "id": "gamsutl",
+    "republicId": "dagestan",
+    "name": "Аул-призрак Гамсутль",
+    "type": "cultural",
+    "coordinate": [42.2517, 47.0744],
+    "address": "Гунибский район",
+    "description": "Заброшенное горное село на вершине хребта, «дагестанский Мачу-Пикчу» возрастом около 2000 лет.",
+    "image": "/images/places/gamsutl.jpg"
+  },
+  {
+    "id": "sarykum",
+    "republicId": "dagestan",
+    "name": "Бархан Сарыкум",
+    "type": "natural",
+    "coordinate": [43.0064, 47.2336],
+    "address": "Кумторкалинский район",
+    "description": "Крупнейший песчаный бархан Европы высотой более 250 метров посреди степи.",
+    "image": "/images/places/sarykum.jpg"
+  },
+  {
+    "id": "saltinsky",
+    "republicId": "dagestan",
+    "name": "Салтинский водопад",
+    "type": "natural",
+    "coordinate": [42.4072, 47.0306],
+    "address": "Гунибский район",
+    "description": "Единственный подземный водопад Дагестана, низвергающийся в Салтинскую теснину.",
+    "image": "/images/places/saltinsky.jpg"
+  },
+  {
+    "id": "gunib",
+    "republicId": "dagestan",
+    "name": "Гуниб",
+    "type": "cultural",
+    "coordinate": [42.3869, 46.9583],
+    "address": "Гуниб",
+    "description": "Историческое горное селение и крепость, место завершения Кавказской войны 1859 года.",
+    "image": "/images/places/gunib.jpg"
+  },
+  {
+    "id": "karadakh",
+    "republicId": "dagestan",
+    "name": "Карадахская теснина",
+    "type": "natural",
+    "coordinate": [42.4869, 46.9856],
+    "address": "Хунзахский район",
+    "description": "Узкое ущелье «Ворота чудес» с отвесными стенами высотой до 170 метров.",
+    "image": "/images/places/karadakh.jpg"
+  },
+
+  {
+    "id": "erzi",
+    "republicId": "ingushetia",
+    "name": "Башенный комплекс Эрзи",
+    "type": "cultural",
+    "coordinate": [42.7553, 44.8497],
+    "address": "Джейрахский район",
+    "description": "Один из крупнейших средневековых башенных комплексов Ингушетии — десятки боевых и жилых башен.",
+    "image": "/images/places/erzi.jpg"
+  },
+  {
+    "id": "vovnushki",
+    "republicId": "ingushetia",
+    "name": "Вовнушки",
+    "type": "cultural",
+    "coordinate": [42.7869, 45.0089],
+    "address": "Джейрахский район",
+    "description": "Замковый комплекс из боевых башен, выросших прямо из скал. Финалист конкурса «Семь чудес России».",
+    "image": "/images/places/vovnushki.jpg"
+  },
+  {
+    "id": "egikal",
+    "republicId": "ingushetia",
+    "name": "Эгикал",
+    "type": "cultural",
+    "coordinate": [42.7711, 44.9442],
+    "address": "Джейрахский район",
+    "description": "Крупнейший древний башенный город Ингушетии, родовое гнездо многих ингушских фамилий.",
+    "image": "/images/places/egikal.jpg"
+  },
+  {
+    "id": "thaba-erdy",
+    "republicId": "ingushetia",
+    "name": "Храм Тхаба-Ерды",
+    "type": "cultural",
+    "coordinate": [42.7836, 45.0286],
+    "address": "Джейрахское ущелье",
+    "description": "Древнейший христианский храм Северного Кавказа VIII–IX веков, памятник аланского зодчества.",
+    "image": "/images/places/thaba-erdy.jpg"
+  },
+  {
+    "id": "dzheyrakh",
+    "republicId": "ingushetia",
+    "name": "Джейрахское ущелье",
+    "type": "natural",
+    "coordinate": [42.7400, 44.8600],
+    "address": "Джейрахский район",
+    "description": "Живописное горное ущелье — заповедник с башнями, святилищами и альпийскими лугами.",
+    "image": "/images/places/dzheyrakh.jpg"
+  },
+  {
+    "id": "lyazhgi",
+    "republicId": "ingushetia",
+    "name": "Ляжгинский водопад",
+    "type": "natural",
+    "coordinate": [42.7650, 44.8200],
+    "address": "Джейрахский район",
+    "description": "Двухкаскадный водопад высотой около 18 метров в окружении соснового леса.",
+    "image": "/images/places/lyazhgi.jpg"
+  },
+
+  {
+    "id": "heart-of-chechnya",
+    "republicId": "chechnya",
+    "name": "Мечеть «Сердце Чечни»",
+    "type": "cultural",
+    "coordinate": [43.3184, 45.6792],
+    "address": "Грозный",
+    "description": "Одна из крупнейших мечетей Европы имени Ахмата Кадырова в центре Грозного.",
+    "image": "/images/places/heart-of-chechnya.jpg"
+  },
+  {
+    "id": "kezenoy-am",
+    "republicId": "chechnya",
+    "name": "Озеро Кезеной-Ам",
+    "type": "natural",
+    "coordinate": [42.7667, 46.1500],
+    "address": "Веденский район",
+    "description": "Крупнейшее и глубочайшее высокогорное озеро Северного Кавказа на высоте 1870 метров.",
+    "image": "/images/places/kezenoy-am.jpg"
+  },
+  {
+    "id": "argun-gorge",
+    "republicId": "chechnya",
+    "name": "Аргунское ущелье",
+    "type": "natural",
+    "coordinate": [42.9400, 45.6600],
+    "address": "Итум-Калинский район",
+    "description": "Грандиозное ущелье вдоль реки Аргун с десятками средневековых башен и крепостей.",
+    "image": "/images/places/argun-gorge.jpg"
+  },
+  {
+    "id": "ushkaloy",
+    "republicId": "chechnya",
+    "name": "Ушкалойские башни",
+    "type": "cultural",
+    "coordinate": [42.9300, 45.6600],
+    "address": "Итум-Калинский район",
+    "description": "Сторожевые башни-близнецы, встроенные прямо в нависающую скалу над рекой Аргун.",
+    "image": "/images/places/ushkaloy.jpg"
+  },
+  {
+    "id": "tsoy-pede",
+    "republicId": "chechnya",
+    "name": "Цой-Педе",
+    "type": "cultural",
+    "coordinate": [42.6600, 45.3000],
+    "address": "Малхиста",
+    "description": "Древний «город мёртвых» — крупнейший некрополь Чечни со склепами и боевыми башнями.",
+    "image": "/images/places/tsoy-pede.jpg"
+  },
+  {
+    "id": "nikhaloy",
+    "republicId": "chechnya",
+    "name": "Нихалоевские водопады",
+    "type": "natural",
+    "coordinate": [42.9700, 45.6200],
+    "address": "Шатойский район",
+    "description": "Каскад водопадов в Аргунском ущелье с оборудованной экотропой.",
+    "image": "/images/places/nikhaloy.jpg"
+  },
+
+  {
+    "id": "elbrus",
+    "republicId": "kabardino-balkaria",
+    "name": "Эльбрус",
+    "type": "natural",
+    "coordinate": [43.3550, 42.4392],
+    "address": "Приэльбрусье",
+    "description": "Высочайшая вершина России и Европы (5642 м), потухший вулкан и центр горного туризма.",
+    "image": "/images/places/elbrus.jpg"
+  },
+  {
+    "id": "blue-lakes",
+    "republicId": "kabardino-balkaria",
+    "name": "Голубые озёра (Церик-Кёль)",
+    "type": "natural",
+    "coordinate": [43.2333, 43.8667],
+    "address": "Черекский район",
+    "description": "Карстовое озеро с насыщенно-голубой водой и глубиной более 250 метров.",
+    "image": "/images/places/blue-lakes.jpg"
+  },
+  {
+    "id": "chegem-falls",
+    "republicId": "kabardino-balkaria",
+    "name": "Чегемские водопады",
+    "type": "natural",
+    "coordinate": [43.3833, 43.1833],
+    "address": "Чегемское ущелье",
+    "description": "Группа водопадов, срывающихся со скал теснины; зимой превращаются в ледяные колонны.",
+    "image": "/images/places/chegem-falls.jpg"
+  },
+  {
+    "id": "verkhnaya-balkaria",
+    "republicId": "kabardino-balkaria",
+    "name": "Верхняя Балкария",
+    "type": "cultural",
+    "coordinate": [43.0500, 43.4200],
+    "address": "Черекский район",
+    "description": "Древнее горное общество с руинами родовых башен и замков на склонах ущелья.",
+    "image": "/images/places/verkhnaya-balkaria.jpg"
+  },
+  {
+    "id": "el-tyubyu",
+    "republicId": "kabardino-balkaria",
+    "name": "Эль-Тюбю (Город мёртвых)",
+    "type": "cultural",
+    "coordinate": [43.3000, 43.1300],
+    "address": "Чегемское ущелье",
+    "description": "Старинное селение с башней Балкаруковых и средневековым некрополем-склепами.",
+    "image": "/images/places/el-tyubyu.jpg"
+  },
+  {
+    "id": "azau",
+    "republicId": "kabardino-balkaria",
+    "name": "Поляна Азау",
+    "type": "natural",
+    "coordinate": [43.2650, 42.4850],
+    "address": "Приэльбрусье",
+    "description": "Высокогорная поляна на 2300 м — старт канатных дорог и горнолыжных трасс Эльбруса.",
+    "image": "/images/places/azau.jpg"
+  },
+
+  {
+    "id": "dombay",
+    "republicId": "karachay-cherkessia",
+    "name": "Домбай",
+    "type": "natural",
+    "coordinate": [43.2944, 41.6219],
+    "address": "Домбайская поляна",
+    "description": "Знаменитый горный курорт в окружении вершин Главного Кавказского хребта.",
+    "image": "/images/places/dombay.jpg"
+  },
+  {
+    "id": "arkhyz",
+    "republicId": "karachay-cherkessia",
+    "name": "Архыз",
+    "type": "natural",
+    "coordinate": [43.5667, 41.2833],
+    "address": "Зеленчукский район",
+    "description": "Горная долина с озёрами, сосновыми лесами и одним из лучших небес для астрономии.",
+    "image": "/images/places/arkhyz.jpg"
+  },
+  {
+    "id": "nizhny-arkhyz",
+    "republicId": "karachay-cherkessia",
+    "name": "Нижне-Архызские храмы",
+    "type": "cultural",
+    "coordinate": [43.6869, 41.4683],
+    "address": "Нижний Архыз",
+    "description": "Аланские христианские храмы X века — древнейшие на территории России.",
+    "image": "/images/places/nizhny-arkhyz.jpg"
+  },
+  {
+    "id": "sofia-falls",
+    "republicId": "karachay-cherkessia",
+    "name": "Софийские водопады",
+    "type": "natural",
+    "coordinate": [43.4500, 41.1800],
+    "address": "Архыз",
+    "description": "Мощные водопады, стекающие с ледников горы София с высоты около 90 метров.",
+    "image": "/images/places/sofia-falls.jpg"
+  },
+  {
+    "id": "teberda",
+    "republicId": "karachay-cherkessia",
+    "name": "Тебердинский заповедник",
+    "type": "natural",
+    "coordinate": [43.4500, 41.7400],
+    "address": "Теберда",
+    "description": "Биосферный заповедник с сотней горных озёр, ледниками и зубрами.",
+    "image": "/images/places/teberda.jpg"
+  },
+  {
+    "id": "honey-falls",
+    "republicId": "karachay-cherkessia",
+    "name": "Медовые водопады",
+    "type": "natural",
+    "coordinate": [43.8500, 42.5500],
+    "address": "Малокарачаевский район",
+    "description": "Каскад из пяти водопадов в Аликоновском ущелье близ Кисловодска.",
+    "image": "/images/places/honey-falls.jpg"
+  },
+
+  {
+    "id": "dargavs",
+    "republicId": "north-ossetia",
+    "name": "Город мёртвых Даргавс",
+    "type": "cultural",
+    "coordinate": [42.8333, 44.4333],
+    "address": "Пригородный район",
+    "description": "Крупнейший на Кавказе средневековый некрополь — почти сотня каменных склепов-усыпальниц.",
+    "image": "/images/places/dargavs.jpg"
+  },
+  {
+    "id": "tsey",
+    "republicId": "north-ossetia",
+    "name": "Цейское ущелье",
+    "type": "natural",
+    "coordinate": [42.8000, 43.9000],
+    "address": "Алагирский район",
+    "description": "Живописное ущелье с ледниками, святилищем Реком и горным курортом Цей.",
+    "image": "/images/places/tsey.jpg"
+  },
+  {
+    "id": "midagrabin",
+    "republicId": "north-ossetia",
+    "name": "Мидаграбинские водопады",
+    "type": "natural",
+    "coordinate": [42.7500, 44.4500],
+    "address": "Мидаграбинская долина",
+    "description": "Одни из высочайших водопадов России и Европы — Большой Зейгелан падает с 600+ метров.",
+    "image": "/images/places/midagrabin.jpg"
+  },
+  {
+    "id": "dzivgis",
+    "republicId": "north-ossetia",
+    "name": "Дзивгисская скальная крепость",
+    "type": "cultural",
+    "coordinate": [42.8500, 44.3000],
+    "address": "Куртатинское ущелье",
+    "description": "Уникальная средневековая крепость, встроенная в естественные пещеры отвесной скалы.",
+    "image": "/images/places/dzivgis.jpg"
+  },
+  {
+    "id": "kurtatinskoe",
+    "republicId": "north-ossetia",
+    "name": "Куртатинское ущелье",
+    "type": "natural",
+    "coordinate": [42.8800, 44.3100],
+    "address": "Алагирский район",
+    "description": "Одно из красивейших ущелий Осетии с башнями, монастырём и горными теснинами.",
+    "image": "/images/places/kurtatinskoe.jpg"
+  },
+  {
+    "id": "rekom",
+    "republicId": "north-ossetia",
+    "name": "Святилище Реком",
+    "type": "cultural",
+    "coordinate": [42.8000, 43.9200],
+    "address": "Цейское ущелье",
+    "description": "Древнее деревянное святилище осетин, одно из главных сакральных мест традиционной религии.",
+    "image": "/images/places/rekom.jpg"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ingushetia",
+    "number": "01",
+    "name": "Ingushetia",
+    "image": "/images/history/ingushetia.png",
+    "description": "A land of ancient tower complexes that reflect a rich historical legacy and the traditions of the highlanders"
+  },
+  {
+    "id": "chechnya",
+    "number": "02",
+    "name": "Chechnya",
+    "image": "/images/history/chechnya.png",
+    "description": "A land of majestic landscapes and iconic monuments, keeping the memory of a heroic past and distinctive culture"
+  },
+  {
+    "id": "dagestan",
+    "number": "03",
+    "name": "Dagestan",
+    "image": "/images/history/dagestan.png",
+    "description": "Of stunning nature: mountain rivers, gorges and azure waters where the cultures of many peoples intertwine"
+  },
+  {
+    "id": "kabardino-balkaria",
+    "number": "04",
+    "name": "Kabardino-Balkaria",
+    "image": "/images/history/kabardino-balkaria.png",
+    "description": "Combines architectural beauty and natural riches: from temple complexes to picturesque mountain landscapes"
+  },
+  {
+    "id": "karachay-cherkessia",
+    "number": "05",
+    "name": "Karachay-Cherkessia",
+    "image": "/images/history/karachay-cherkessia.png",
+    "description": "A region of breathtaking views and ancient fortresses that tell the story of the past"
+  },
+  {
+    "id": "north-ossetia",
+    "number": "06",
+    "name": "North Ossetia",
+    "image": "/images/history/north-ossetia.png",
+    "description": "A constituent region of the Russian Federation, part of the North Caucasus Federal District"
+  }
+]

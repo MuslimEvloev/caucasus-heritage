@@ -1,0 +1,38 @@
+{
+  "ingushetia": [
+    { "id": "ing-r1", "name": "Erzi Café", "coordinate": [43.2256, 44.7642], "address": "Nazran, Bazorkin Ave", "specialty": "Dulkh-khaltam, chapilgash and homemade soups" },
+    { "id": "ing-r2", "name": "Magas Restaurant", "coordinate": [43.1670, 44.8120], "address": "Magas, Zyazikov Ave", "specialty": "National cuisine and char-grilled dishes" },
+    { "id": "ing-r3", "name": "Vershiny Teahouse", "coordinate": [43.2180, 44.7700], "address": "Nazran, Moskovskaya St", "specialty": "Zhizhig-galnash, tea with mountain herbs" },
+    { "id": "ing-r4", "name": "Targim Café", "coordinate": [43.1700, 44.8050], "address": "Magas, Akhriev St", "specialty": "Berkh and highland dishes" }
+  ],
+  "chechnya": [
+    { "id": "che-r1", "name": "Tiflis Restaurant", "coordinate": [43.3175, 45.6940], "address": "Grozny, Kadyrov Ave", "specialty": "Caucasian cuisine, zhizhig-galnash" },
+    { "id": "che-r2", "name": "Berkat Café", "coordinate": [43.3120, 45.6890], "address": "Grozny, Mayakovsky St", "specialty": "Chepalgash, hingalsh, homemade pastries" },
+    { "id": "che-r3", "name": "Grozny-City Restaurant", "coordinate": [43.3206, 45.6960], "address": "Grozny, Grozny-City complex", "specialty": "Panoramic view and national dishes" },
+    { "id": "che-r4", "name": "Lavash Teahouse", "coordinate": [43.3150, 45.6800], "address": "Grozny, Putin Ave", "specialty": "Shashlik, flatbreads and strong tea" }
+  ],
+  "dagestan": [
+    { "id": "dag-r1", "name": "Glavryba Restaurant", "coordinate": [42.9840, 47.5040], "address": "Makhachkala, Gamzatov St", "specialty": "Khinkal, kutum and fish dishes" },
+    { "id": "dag-r2", "name": "Urbech House", "coordinate": [42.9790, 47.4990], "address": "Makhachkala, Lenin Ave", "specialty": "Urbech, chudu and highland breakfasts" },
+    { "id": "dag-r3", "name": "Derbent Restaurant", "coordinate": [42.0678, 48.2890], "address": "Derbent, Mira St", "specialty": "Avar khinkal, kurze" },
+    { "id": "dag-r4", "name": "Aul Café", "coordinate": [42.9880, 47.5100], "address": "Makhachkala, Korkmasov St", "specialty": "Chudu with various fillings" }
+  ],
+  "kabardino-balkaria": [
+    { "id": "kbr-r1", "name": "Sosruko Restaurant", "coordinate": [43.4760, 43.6010], "address": "Nalchik, Kizilovka Hill", "specialty": "Khychyns, gedlibzhe, city view" },
+    { "id": "kbr-r2", "name": "Balkaria Café", "coordinate": [43.4845, 43.6071], "address": "Nalchik, Shogentsukov Ave", "specialty": "Khychyns with cheese and potato" },
+    { "id": "kbr-r3", "name": "Elbrus Teahouse", "coordinate": [43.4820, 43.6100], "address": "Nalchik, Kabardinskaya St", "specialty": "Lyagur, shashlik and ayran" },
+    { "id": "kbr-r4", "name": "Chegem Café", "coordinate": [43.4800, 43.6040], "address": "Nalchik, Lenin St", "specialty": "National cuisine and pastries" }
+  ],
+  "karachay-cherkessia": [
+    { "id": "kchr-r1", "name": "Khychyn Café", "coordinate": [44.2269, 42.0578], "address": "Cherkessk, Lenin St", "specialty": "Karachay khychyns and shorpa" },
+    { "id": "kchr-r2", "name": "Dombay Restaurant", "coordinate": [43.2944, 41.6219], "address": "Dombay village", "specialty": "Mountain cuisine and grilled dishes" },
+    { "id": "kchr-r3", "name": "Arkhyz Café", "coordinate": [43.5667, 41.2833], "address": "Arkhyz village", "specialty": "Sohta, lokums and herbal tea" },
+    { "id": "kchr-r4", "name": "Teberda Teahouse", "coordinate": [43.4500, 41.7400], "address": "Teberda, Karachaevskaya St", "specialty": "Lamb shorpa, ayran" }
+  ],
+  "north-ossetia": [
+    { "id": "ose-r1", "name": "Three Pies Café", "coordinate": [43.0241, 44.6814], "address": "Vladikavkaz, Mira Ave", "specialty": "Ossetian pies of every kind" },
+    { "id": "ose-r2", "name": "Iriston Restaurant", "coordinate": [43.0200, 44.6850], "address": "Vladikavkaz, Kuybyshev St", "specialty": "Dzykka, lyvzha and tsakhdon" },
+    { "id": "ose-r3", "name": "Ualibakh Pie House", "coordinate": [43.0280, 44.6790], "address": "Vladikavkaz, Markov St", "specialty": "Ualibakh and kartofdzhyn pies" },
+    { "id": "ose-r4", "name": "Alania Café", "coordinate": [43.0260, 44.6880], "address": "Vladikavkaz, Dzhanaev St", "specialty": "National cuisine and a highland table" }
+  ]
+}

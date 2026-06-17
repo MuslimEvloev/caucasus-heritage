@@ -1,0 +1,299 @@
+{
+  "ingushetia": {
+    "lead": "A land of stone towers, ancient clans and one of the oldest Christian temples in the Caucasus.",
+    "intro": "Ingushetia is one of the smallest regions of Russia by area, yet the owner of a unique heritage. Its mountain gorges are dotted with medieval battle and dwelling towers that the locals built over centuries. The Ingush call themselves \"galgai\", which means \"tower builders\" or \"tower dwellers\".",
+    "timeline": [
+      { "period": "2nd mill. BC", "title": "Koban culture", "text": "The Koban culture of the Bronze and early Iron Age takes shape on the territory of modern Ingushetia — one of the roots of the Nakh peoples." },
+      { "period": "8th–9th c.", "title": "Arrival of Christianity", "text": "Christianity spreads to the highlanders through Alania. The Thaba-Yerdy temple, the oldest in the North Caucasus, dates to this time." },
+      { "period": "13th–15th c.", "title": "The age of towers", "text": "After the Mongol invasions the highlanders retreat into hard-to-reach gorges, where the unique tower architecture flourishes — battle, dwelling and semi-battle towers." },
+      { "period": "16th–18th c.", "title": "Mountain societies", "text": "The teip (clan) structure of society develops. Large tower settlements form — Egikal, Targim, Khamkhi — making up a \"land of towers\"." },
+      { "period": "1770–1810", "title": "Joining Russia", "text": "The Ingush societies accept Russian citizenship; on the plain the fortress and village of Nazran is founded, becoming a centre for the highlanders." },
+      { "period": "1944–1957", "title": "Deportation and return", "text": "In 1944 the Ingush, together with the Chechens, were deported to Central Asia and Kazakhstan. The return home began after 1957." },
+      { "period": "1992", "title": "Birth of the republic", "text": "On 4 June 1992 the Republic of Ingushetia was formed within the Russian Federation; the new city of Magas became its capital." }
+    ],
+    "blocks": [
+      {
+        "title": "Tower architecture",
+        "paragraphs": [
+          "Ingushetia's main treasure is its stone towers, often called an \"encyclopaedia of highland life\". Battle towers (vouv) reached 25–30 metres in height, narrowing upwards and ending in a stepped pyramidal roof. Dwelling towers (gala) were lower and wider — families lived in them together with their livestock.",
+          "The towers were laid dry or with lime mortar, and the masonry was so precise that a blade could not be slipped between the stones. By tradition a master had to raise a tower within one year — otherwise the family was considered weak. These structures served at once as home, fortress and a symbol of the clan's status."
+        ]
+      },
+      {
+        "title": "Teips and social order",
+        "paragraphs": [
+          "Traditional Ingush society was built on teips — clan unions tracing descent from a common ancestor. The teips regulated daily life, settled disputes and preserved customs, while the most important decisions were taken by the council of elders, the \"Mehk-Khel\".",
+          "A special place belonged to the adat — a body of unwritten law — and to the code of honour \"ezdel\", which set the norms of conduct, hospitality and respect for elders. These traditions are largely kept to this day."
+        ]
+      },
+      {
+        "title": "From paganism to Islam",
+        "paragraphs": [
+          "The spiritual history of the Ingush is many-layered. Its oldest stratum was pagan belief with a cult of nature and ancestors and sanctuaries on mountain tops. Then Christianity came through Alania, leaving the Thaba-Yerdy temple and stone crosses.",
+          "Sunni Islam took final hold among the Ingush only in the 18th–19th centuries, and in the form of Sufi brotherhoods. Thus several religious traditions are interwoven in the culture of the republic."
+        ]
+      }
+    ],
+    "figures": [
+      { "name": "Idris Bazorkin", "years": "1910–1993", "text": "A classic of Ingush literature, author of the epic novel \"From the Darkness of Ages\" about the life of the highlanders." },
+      { "name": "Chakh Akhriev", "years": "1850–1914", "text": "The first Ingush scholar-ethnographer and educator, a collector of his people's legends and folklore." },
+      { "name": "Doshluko Malsagov", "years": "1898–1966", "text": "A linguist, one of the creators of Ingush writing and the literary language." }
+    ],
+    "facts": [
+      "The Ingush self-name \"galgai\" translates as \"tower builders\".",
+      "The Thaba-Yerdy temple is the oldest Christian temple in the entire North Caucasus.",
+      "Magas is one of the youngest cities in Russia, built in the 1990s as a new capital.",
+      "The tower complexes of the Dzheyrakh Gorge have the status of a federal museum reserve.",
+      "By custom, a battle tower had to be built in exactly one year."
+    ]
+  },
+  "chechnya": {
+    "lead": "A land of mountain gorges, clan towers and a swift revival.",
+    "intro": "Chechnya is a republic of contrasts, where the ancient battle towers of the Argun Gorge stand beside the skyscrapers of Grozny-City. The history of the Chechen people (self-name \"nokhchi\") spans millennia and is closely tied to the mountains that shaped its character, way of life and culture.",
+    "timeline": [
+      { "period": "3rd mill. BC", "title": "Ancient roots", "text": "The ancestors of the Nakh peoples inhabit the mountain areas of the Caucasus; the Maykop and Koban cultures take shape." },
+      { "period": "11th–13th c.", "title": "Alan influence", "text": "The mountain societies are under the influence of Alania; Christianity and stone architecture spread." },
+      { "period": "14th–16th c.", "title": "Flourishing of towers", "text": "In the Argun and Sharo-Argun gorges battle towers, castles and necropolises are built; tukkhums and teips form." },
+      { "period": "18th–19th c.", "title": "The Caucasian War", "text": "Chechnya becomes one of the centres of resistance in the Caucasian War; the Imamate under Shamil takes shape." },
+      { "period": "20th c.", "title": "Deportation and recovery", "text": "In 1944 the Chechens are deported; the return began after 1957 with the restoration of the autonomy." },
+      { "period": "2000s", "title": "Revival", "text": "After the conflicts of the 1990s Grozny was fully rebuilt; tourism and infrastructure are developing." }
+    ],
+    "blocks": [
+      {
+        "title": "Towers of the Argun Gorge",
+        "paragraphs": [
+          "The Argun Gorge is a true open-air museum. Dozens of medieval battle towers, clan castles and necropolises survive here. The Ushkaloy twin towers are built right into an overhanging cliff above the turbulent Argun River and for centuries controlled passage through the gorge.",
+          "A special place belongs to Tsoy-Pede, the \"city of the dead\", the largest necropolis in Chechnya. Its crypts and two battle towers tell of the burial traditions and defensive architecture of the highlanders."
+        ]
+      },
+      {
+        "title": "Teips, tukkhums and adat",
+        "paragraphs": [
+          "Chechen society was traditionally divided into teips (clans) and tukkhums (unions of teips). This system ensured mutual aid, defence and the preservation of customs. Decisions were taken by a council of elders, and conflicts were settled by adat — customary law.",
+          "The code of honour \"nokhchalla\" defined the ideal of conduct: nobility, loyalty to one's word, hospitality and respect for elders. These values remain the foundation of national identity."
+        ]
+      },
+      {
+        "title": "Spiritual heritage",
+        "paragraphs": [
+          "Islam came to Chechnya in the 16th–18th centuries, mainly in the form of Sufi brotherhoods — the Naqshbandi and Qadiri tariqas. The zikr — the collective remembrance of God — became an important part of spiritual life.",
+          "A symbol of modern religious culture is the \"Heart of Chechnya\" mosque named after Akhmat Kadyrov — one of the largest in Europe, able to hold tens of thousands of worshippers."
+        ]
+      }
+    ],
+    "figures": [
+      { "name": "Makhmud Esambaev", "years": "1924–2000", "text": "A legendary dancer, People's Artist of the USSR, who introduced the world to the dances of the Caucasus." },
+      { "name": "Magomet Mamakaev", "years": "1910–1973", "text": "A writer and poet, a researcher of the teip system and the history of the Chechen people." },
+      { "name": "Abuzar Aydamirov", "years": "1933–2005", "text": "People's Writer of Chechnya, author of a historical trilogy about the Caucasian War." }
+    ],
+    "facts": [
+      "The Chechen self-name is \"nokhchi\".",
+      "The \"Heart of Chechnya\" mosque is one of the largest mosques in Europe.",
+      "The Ushkaloy towers are literally built into the cliff above the Argun River.",
+      "Lake Kezenoy-Am is the deepest high-mountain lake of the North Caucasus.",
+      "The code of honour \"nokhchalla\" is considered the basis of the Chechen national character."
+    ]
+  },
+  "dagestan": {
+    "lead": "The \"land of mountains\" and the most multi-ethnic region of Russia, home to the country's oldest city.",
+    "intro": "Dagestan translates as the \"land of mountains\". It is the southernmost and most multi-ethnic region of Russia: more than thirty native peoples live here, speaking dozens of languages. This land is home to Derbent, the oldest city in Russia, while the mountains keep dozens of villages that have preserved unique crafts for centuries.",
+    "timeline": [
+      { "period": "6th c. BC", "title": "Caucasian Albania", "text": "The territory is part of the ancient state of Caucasian Albania, with its own writing and culture." },
+      { "period": "5th–6th c.", "title": "Founding of Derbent", "text": "The Persian Sassanids build the mighty Naryn-Kala fortress and the walls of Derbent, guarding the pass between the sea and the mountains." },
+      { "period": "7th–10th c.", "title": "Arrival of Islam", "text": "Islam enters the region through Derbent, becoming one of the oldest in the territory of Russia." },
+      { "period": "11th–15th c.", "title": "Mountain states", "text": "Feudal domains arise — the Avar Khanate, Kaitag, Tabasaran; crafts and trade flourish." },
+      { "period": "18th–19th c.", "title": "The Caucasian War", "text": "Mountain Dagestan becomes the core of Shamil's Imamate; the war ends in 1859 in the village of Gunib." },
+      { "period": "20th c.", "title": "Within Russia and the USSR", "text": "The Dagestan ASSR is formed; industry, education and national cultures develop." }
+    ],
+    "blocks": [
+      {
+        "title": "Derbent — the gate of the Caucasus",
+        "paragraphs": [
+          "Derbent is more than two thousand years old and is rightly considered the oldest city in Russia. Its name translates from Persian as \"closed gates\": the city locked the narrow pass between the Caspian Sea and the Caucasus mountains.",
+          "The Naryn-Kala citadel and two parallel fortress walls that descended right into the sea formed a grand fortification. Today the historical centre of Derbent is on the UNESCO World Heritage List."
+        ]
+      },
+      {
+        "title": "Peoples and languages",
+        "paragraphs": [
+          "Dagestan is a unique ethnic and linguistic melting pot. Avars, Dargins, Kumyks, Lezgins, Laks, Tabasarans, Nogais and many other peoples have lived side by side for centuries, keeping their own languages and customs.",
+          "Because of the abundance of languages, the highlanders long spoke several tongues, while Avar and Kumyk — and later Russian — served as languages of inter-ethnic communication."
+        ]
+      },
+      {
+        "title": "Crafts of the mountain villages",
+        "paragraphs": [
+          "Each Dagestani village was famous for its own craft. Kubachi is known for jewellery and weapons, Balkhar for pottery, Untsukul for wood inlay, Gotsatl for copper engraving, Tabasaran for carpets.",
+          "These crafts were handed down from generation to generation and made Dagestan one of the main centres of folk decorative and applied art in the Caucasus."
+        ]
+      },
+      {
+        "title": "Fortress villages",
+        "paragraphs": [
+          "The mountain villages of Dagestan were built as natural fortresses: houses clung to one another along the slope, and the roof of a lower house served as the yard of the one above. The ghost village of Gamsutl, abandoned on a ridge top, became a symbol of this architecture.",
+          "Gunib entered history as the place where the Caucasian War ended: it was here, in 1859, that Imam Shamil laid down his arms."
+        ]
+      }
+    ],
+    "figures": [
+      { "name": "Rasul Gamzatov", "years": "1923–2003", "text": "People's Poet of Dagestan, author of \"The Cranes\", who sang of his native mountains and the friendship of peoples." },
+      { "name": "Imam Shamil", "years": "1797–1871", "text": "The third Imam of Dagestan and Chechnya, who united the highlanders into the state of the Imamate during the Caucasian War." },
+      { "name": "Suleyman Stalsky", "years": "1869–1937", "text": "A Lezgin ashug poet who was called \"the Homer of the 20th century\"." }
+    ],
+    "facts": [
+      "Derbent is the oldest city in Russia, more than 2000 years old.",
+      "More than 30 native peoples live in Dagestan, speaking dozens of languages.",
+      "The village of Kubachi is famous worldwide for its goldsmiths and weapon-makers.",
+      "The Sulak Canyon is deeper than the famous Grand Canyon in the USA.",
+      "The Sarykum dune is the largest sand dune in Europe."
+    ]
+  },
+  "kabardino-balkaria": {
+    "lead": "Clan towers and the majesty of Elbrus — the heritage of the Kabardians and Balkars.",
+    "intro": "Kabardino-Balkaria unites two peoples of different origins: the Kabardians, part of the Adyghe (Circassian) world, and the Balkars, Turkic-speaking highlanders. The republic is crowned by Elbrus, the highest peak of Europe, while its gorges keep medieval towers and crypt necropolises.",
+    "timeline": [
+      { "period": "1st mill. BC", "title": "Koban culture", "text": "A developed Bronze Age culture with a high level of metallurgy takes shape in the foothills." },
+      { "period": "10th–13th c.", "title": "Adyghe and Alans", "text": "Adyghe tribes form; the ancestors of the Balkars, influenced by the Alans, live in the mountains." },
+      { "period": "15th–16th c.", "title": "Kabarda", "text": "The strong principality of Kabarda arises, influencing the politics of the whole North Caucasus." },
+      { "period": "1557", "title": "Alliance with Moscow", "text": "The Kabardian princes form an alliance with the Russian state, sealed by the dynastic marriage of Ivan the Terrible." },
+      { "period": "19th c.", "title": "Within Russia", "text": "After the Caucasian War the region finally becomes part of the Russian Empire." },
+      { "period": "1944–1957", "title": "Deportation of the Balkars", "text": "The Balkars are deported to Central Asia; the return and restoration of the republic came after 1957." }
+    ],
+    "blocks": [
+      {
+        "title": "Elbrus — the sacred mountain",
+        "paragraphs": [
+          "The twin-peaked Elbrus (5642 m) is the highest summit of Russia and Europe and a dormant volcano. For the peoples of the Caucasus it was long a sacred mountain surrounded by legends.",
+          "In the 19th century Elbrus became the cradle of Russian mountaineering: the first ascent of the eastern summit in 1829 was made by the Kabardian guide Kilar Khashirov. Today the Elbrus region is one of the country's main centres of mountain tourism."
+        ]
+      },
+      {
+        "title": "Highland towers and necropolises",
+        "paragraphs": [
+          "In the Cherek and Chegem gorges, monuments of Balkar culture survive — clan towers, castles and crypt necropolises. In Upper Balkaria the ruins of battle towers rise, while El-Tyubyu is known for its \"City of the Dead\" and the Balkarukov tower.",
+          "These structures, as in the neighbouring republics, served as defence, dwelling and a mark of a clan's nobility."
+        ]
+      },
+      {
+        "title": "Two peoples — one republic",
+        "paragraphs": [
+          "The Kabardians belong to the Adyghe world and speak a language of the Abkhaz-Adyghe group, while the Balkars are a Turkic people close to the Karachays. Despite their different roots, they have lived side by side for centuries, exchanging traditions.",
+          "Kabarda was historically one of the most influential entities of the North Caucasus, while the Balkars preserved the ancient culture of high-mountain herders."
+        ]
+      }
+    ],
+    "figures": [
+      { "name": "Kaysyn Kuliev", "years": "1917–1985", "text": "An outstanding Balkar poet, singer of his native mountains, of folk wisdom and resilience." },
+      { "name": "Bekmurza Pachev", "years": "1854–1936", "text": "The founder of written Kabardian poetry, a people's poet and thinker." },
+      { "name": "Ali Shogentsukov", "years": "1900–1941", "text": "A classic of Kabardian literature, a poet and prose writer who laid the foundations of national verse." }
+    ],
+    "facts": [
+      "Elbrus (5642 m) is the highest peak of Russia and Europe.",
+      "The first ascent of Elbrus in 1829 was made by the Kabardian Kilar Khashirov.",
+      "The Blue Lake Tserik-Kel is more than 250 metres deep.",
+      "The 1557 alliance of Kabarda with Moscow was sealed by the marriage of Ivan the Terrible and Princess Goshanay (Maria).",
+      "The Kabardians belong to the Adyghe, while the Balkars are a Turkic people."
+    ]
+  },
+  "karachay-cherkessia": {
+    "lead": "Ancient Alan temples and mountain resorts among the peaks of the Caucasus.",
+    "intro": "Karachay-Cherkessia is a republic where several peoples and eras meet. Here, in Nizhny Arkhyz, stand the oldest Christian temples in Russia — a legacy of medieval Alania. And the mountain valleys of Dombay and Arkhyz have turned the region into a centre of mountaineering and skiing.",
+    "timeline": [
+      { "period": "1st–4th c.", "title": "Sarmatians and Alans", "text": "Iranian-speaking Alans — ancestors of part of the North Caucasus peoples — settle in the foothills." },
+      { "period": "10th c.", "title": "The Alan eparchy", "text": "Nizhny Arkhyz becomes a religious centre of Alania; stone Christian temples are built." },
+      { "period": "13th–14th c.", "title": "Invasions and migrations", "text": "The Mongol campaigns and Timur destroy the Alan towns; the peoples retreat into the mountains." },
+      { "period": "15th–18th c.", "title": "Karachays and Circassians", "text": "The Karachay and Circassian (Adyghe) ethnic groups form; mountain societies take shape." },
+      { "period": "19th c.", "title": "Within Russia", "text": "After the Caucasian War the region joins the Russian Empire; the study of its mountains and nature begins." },
+      { "period": "20th c.", "title": "Resorts and reserves", "text": "The Teberda Reserve is created; mountaineering and ski tourism develop in Dombay and Arkhyz." }
+    ],
+    "blocks": [
+      {
+        "title": "The legacy of Alania",
+        "paragraphs": [
+          "The Nizhny Arkhyz settlement was a major centre of the Alan state and its Christian eparchy. The temples that survive here — the Northern, Middle and Southern — are among the oldest Christian buildings in the territory of Russia.",
+          "Nearby, on a cliff, the rock image of Christ — the \"Face of Christ\" — was discovered in the 1990s and became a place of pilgrimage. These monuments testify to the region's deep Christian roots."
+        ]
+      },
+      {
+        "title": "Mountain resorts",
+        "paragraphs": [
+          "Dombay, Arkhyz and Teberda developed as centres of mountaineering and mountain recreation from the late 19th and early 20th centuries. The Dombay Glade, surrounded by the peaks of the Main Caucasus Range, became a legend of Soviet tourism.",
+          "Arkhyz is known not only for its ski runs but also for some of the cleanest skies in Russia: the country's largest astrophysical observatory operates here."
+        ]
+      },
+      {
+        "title": "Peoples of the region",
+        "paragraphs": [
+          "The republic is home to the Karachays and Circassians, as well as Abazins, Nogais and Russians. The Karachays are a Turkic people close to the Balkars; the Circassians belong to the Adyghe world.",
+          "For centuries these peoples were engaged in herding, crafts and trade, developing rich traditions of hospitality for which the region is still famous."
+        ]
+      }
+    ],
+    "figures": [
+      { "name": "Khalimat Bayramukova", "years": "1917–1996", "text": "A Karachay poet and writer, one of the main voices of her people." },
+      { "name": "Umar Aliyev", "years": "1895–1938", "text": "An educator and statesman, founder of the national writing and education." },
+      { "name": "Ismail Semyonov", "years": "1891–1981", "text": "A people's poet and musician, keeper of Karachay folklore." }
+    ],
+    "facts": [
+      "The Nizhny Arkhyz temples of the 10th century are the oldest Christian temples in Russia.",
+      "The country's largest astrophysical observatory operates in Arkhyz.",
+      "The Teberda Reserve is a biosphere reserve under the auspices of UNESCO.",
+      "The Karachays are a Turkic people, while the Circassians belong to the Adyghe.",
+      "The \"Face of Christ\" near Nizhny Arkhyz was discovered only in 1999."
+    ]
+  },
+  "north-ossetia": {
+    "lead": "The land of ancient Alania: towers, \"cities of the dead\" and the Nart epic.",
+    "intro": "North Ossetia is closely tied to the heritage of medieval Alania, and the Ossetian language is the only one of the Iranian group in the Caucasus. The Alans are considered ancestors of the Ossetians and of a number of other North Caucasus peoples. The republic's gorges keep clan towers, rock fortresses and the famous \"cities of the dead\", while its culture is rooted in the grand Nart epic.",
+    "timeline": [
+      { "period": "7th c. BC", "title": "Scythians and Sarmatians", "text": "The ancestors of the Ossetians — Iranian-speaking nomads of the Scytho-Sarmatian world — settle in the Caucasus foreland." },
+      { "period": "1st–4th c.", "title": "The Alans", "text": "A powerful union of Alan tribes forms, known far beyond the Caucasus." },
+      { "period": "10th–12th c.", "title": "Flourishing of Alania", "text": "Alania becomes an early feudal state and adopts Christianity from Byzantium." },
+      { "period": "13th–14th c.", "title": "Mongols and Timur", "text": "The invasions of Batu and Timur destroy lowland Alania; the surviving Alans retreat into the mountain gorges." },
+      { "period": "18th c.", "title": "Alliance with Russia", "text": "In 1774 Ossetia joins Russia; the resettlement of the highlanders to the plain begins." },
+      { "period": "1784", "title": "Founding of Vladikavkaz", "text": "At the entrance to the Daryal Gorge the fortress of Vladikavkaz — the future capital of the republic — is founded." }
+    ],
+    "blocks": [
+      {
+        "title": "The legacy of Alania",
+        "paragraphs": [
+          "The Ossetians are one of the peoples descended from the Alans, a medieval people with their own state, towns and Christian church. After the Mongol and Timurid invasions the Alans took refuge in mountain gorges — Kurtatinsky, Alagirsky, Digorsky — where the traditional culture of the highlanders developed.",
+          "Battle and dwelling towers, clan castles and the Dzivgis rock fortress, built right into the caves of a sheer cliff, survive here — a unique monument of defensive architecture."
+        ]
+      },
+      {
+        "title": "Cities of the dead",
+        "paragraphs": [
+          "The Dargavs necropolis is the largest complex of stone crypt tombs in the Caucasus, numbering nearly a hundred structures. Because of the shape of the buildings it was nicknamed the \"city of the dead\".",
+          "Such necropolises tell of the burial traditions of the highlanders: the dead were buried in above-ground and semi-underground crypts, while the structures themselves were carefully oriented and protected."
+        ]
+      },
+      {
+        "title": "The Nart epic and traditional religion",
+        "paragraphs": [
+          "The pinnacle of Ossetian culture is the Nart epic, a grand body of legends about the Nart heroes, shared by many peoples of the Caucasus but especially developed among the Ossetians. It goes back to Scytho-Sarmatian antiquity.",
+          "The traditional religion of the Ossetians combines ancient beliefs and a cult of the ancestors. Its main sanctuary is Rekom in the Tsey Gorge, where prayers were said and offerings made."
+        ]
+      },
+      {
+        "title": "Language and writing",
+        "paragraphs": [
+          "The Ossetian language belongs to the Iranian group and is an \"island\" of Indo-European speech amid Caucasian and Turkic languages. It has preserved features of the ancient Alan tongue.",
+          "The founder of Ossetian literature was Kosta Khetagurov, while the study of the language and the epic made the Iranist scholar Vaso Abaev famous."
+        ]
+      }
+    ],
+    "figures": [
+      { "name": "Kosta Khetagurov", "years": "1859–1906", "text": "The founder of Ossetian literature — a poet, artist, publicist and educator." },
+      { "name": "Vaso Abaev", "years": "1900–2001", "text": "An outstanding Iranist linguist, researcher of the Ossetian language and the Nart epic." },
+      { "name": "Issa Pliyev", "years": "1903–1979", "text": "Twice Hero of the Soviet Union, a celebrated military commander born in Ossetia." }
+    ],
+    "facts": [
+      "Ossetian is the only language of the Iranian group in the North Caucasus.",
+      "The Alans are ancestors of the Ossetians and of a number of other peoples of the Caucasus.",
+      "The Dargavs necropolis numbers nearly a hundred stone crypts.",
+      "The Nart epic is a shared heritage of the peoples of the Caucasus, especially developed among the Ossetians.",
+      "Vladikavkaz was founded in 1784 as a fortress at the Daryal Gorge."
+    ]
+  }
+}

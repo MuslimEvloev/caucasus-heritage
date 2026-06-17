@@ -1,0 +1,377 @@
+[
+  {
+    "id": "derbent",
+    "republicId": "dagestan",
+    "name": "Naryn-Kala Citadel",
+    "type": "cultural",
+    "coordinate": [42.0526, 48.2754],
+    "address": "Derbent",
+    "description": "Russia's oldest fortress (4th–6th c.) and the core of the city of Derbent. A UNESCO World Heritage Site.",
+    "image": "/images/places/derbent.jpg"
+  },
+  {
+    "id": "sulak-canyon",
+    "republicId": "dagestan",
+    "name": "Sulak Canyon",
+    "type": "natural",
+    "coordinate": [43.0148, 46.8230],
+    "address": "Dubki",
+    "description": "One of the deepest canyons in the world (up to 1920 m) with the turquoise Sulak River at its bottom.",
+    "image": "/images/places/sulak-canyon.jpg"
+  },
+  {
+    "id": "gamsutl",
+    "republicId": "dagestan",
+    "name": "Gamsutl Ghost Village",
+    "type": "cultural",
+    "coordinate": [42.2517, 47.0744],
+    "address": "Gunib District",
+    "description": "An abandoned mountain village on a ridge top, the \"Dagestani Machu Picchu\", about 2000 years old.",
+    "image": "/images/places/gamsutl.jpg"
+  },
+  {
+    "id": "sarykum",
+    "republicId": "dagestan",
+    "name": "Sarykum Dune",
+    "type": "natural",
+    "coordinate": [43.0064, 47.2336],
+    "address": "Kumtorkalinsky District",
+    "description": "The largest sand dune in Europe, over 250 metres high, standing in the middle of the steppe.",
+    "image": "/images/places/sarykum.jpg"
+  },
+  {
+    "id": "saltinsky",
+    "republicId": "dagestan",
+    "name": "Saltinsky Waterfall",
+    "type": "natural",
+    "coordinate": [42.4072, 47.0306],
+    "address": "Gunib District",
+    "description": "The only underground waterfall in Dagestan, plunging into the Saltinsky gorge.",
+    "image": "/images/places/saltinsky.jpg"
+  },
+  {
+    "id": "gunib",
+    "republicId": "dagestan",
+    "name": "Gunib",
+    "type": "cultural",
+    "coordinate": [42.3869, 46.9583],
+    "address": "Gunib",
+    "description": "A historic mountain village and fortress, where the Caucasian War ended in 1859.",
+    "image": "/images/places/gunib.jpg"
+  },
+  {
+    "id": "karadakh",
+    "republicId": "dagestan",
+    "name": "Karadakh Gorge",
+    "type": "natural",
+    "coordinate": [42.4869, 46.9856],
+    "address": "Khunzakh District",
+    "description": "A narrow gorge, the \"Gate of Wonders\", with sheer walls up to 170 metres high.",
+    "image": "/images/places/karadakh.jpg"
+  },
+
+  {
+    "id": "erzi",
+    "republicId": "ingushetia",
+    "name": "Erzi Tower Complex",
+    "type": "cultural",
+    "coordinate": [42.7553, 44.8497],
+    "address": "Dzheyrakh District",
+    "description": "One of the largest medieval tower complexes in Ingushetia — dozens of battle and dwelling towers.",
+    "image": "/images/places/erzi.jpg"
+  },
+  {
+    "id": "vovnushki",
+    "republicId": "ingushetia",
+    "name": "Vovnushki",
+    "type": "cultural",
+    "coordinate": [42.7869, 45.0089],
+    "address": "Dzheyrakh District",
+    "description": "A castle complex of battle towers growing straight out of the rocks. A finalist of the \"Seven Wonders of Russia\".",
+    "image": "/images/places/vovnushki.jpg"
+  },
+  {
+    "id": "egikal",
+    "republicId": "ingushetia",
+    "name": "Egikal",
+    "type": "cultural",
+    "coordinate": [42.7711, 44.9442],
+    "address": "Dzheyrakh District",
+    "description": "The largest ancient tower town of Ingushetia and the ancestral home of many Ingush clans.",
+    "image": "/images/places/egikal.jpg"
+  },
+  {
+    "id": "thaba-erdy",
+    "republicId": "ingushetia",
+    "name": "Thaba-Yerdy Temple",
+    "type": "cultural",
+    "coordinate": [42.7836, 45.0286],
+    "address": "Dzheyrakh Gorge",
+    "description": "The oldest Christian temple in the North Caucasus (8th–9th c.), a monument of Alan architecture.",
+    "image": "/images/places/thaba-erdy.jpg"
+  },
+  {
+    "id": "dzheyrakh",
+    "republicId": "ingushetia",
+    "name": "Dzheyrakh Gorge",
+    "type": "natural",
+    "coordinate": [42.7400, 44.8600],
+    "address": "Dzheyrakh District",
+    "description": "A picturesque mountain gorge — a reserve with towers, sanctuaries and alpine meadows.",
+    "image": "/images/places/dzheyrakh.jpg"
+  },
+  {
+    "id": "lyazhgi",
+    "republicId": "ingushetia",
+    "name": "Lyazhgi Waterfall",
+    "type": "natural",
+    "coordinate": [42.7650, 44.8200],
+    "address": "Dzheyrakh District",
+    "description": "A two-cascade waterfall about 18 metres high surrounded by pine forest.",
+    "image": "/images/places/lyazhgi.jpg"
+  },
+
+  {
+    "id": "heart-of-chechnya",
+    "republicId": "chechnya",
+    "name": "Heart of Chechnya Mosque",
+    "type": "cultural",
+    "coordinate": [43.3184, 45.6792],
+    "address": "Grozny",
+    "description": "One of the largest mosques in Europe, named after Akhmat Kadyrov, in the centre of Grozny.",
+    "image": "/images/places/heart-of-chechnya.jpg"
+  },
+  {
+    "id": "kezenoy-am",
+    "republicId": "chechnya",
+    "name": "Lake Kezenoy-Am",
+    "type": "natural",
+    "coordinate": [42.7667, 46.1500],
+    "address": "Vedeno District",
+    "description": "The largest and deepest high-mountain lake of the North Caucasus, at 1870 metres.",
+    "image": "/images/places/kezenoy-am.jpg"
+  },
+  {
+    "id": "argun-gorge",
+    "republicId": "chechnya",
+    "name": "Argun Gorge",
+    "type": "natural",
+    "coordinate": [42.9400, 45.6600],
+    "address": "Itum-Kalinsky District",
+    "description": "A grand gorge along the Argun River with dozens of medieval towers and fortresses.",
+    "image": "/images/places/argun-gorge.jpg"
+  },
+  {
+    "id": "ushkaloy",
+    "republicId": "chechnya",
+    "name": "Ushkaloy Towers",
+    "type": "cultural",
+    "coordinate": [42.9300, 45.6600],
+    "address": "Itum-Kalinsky District",
+    "description": "Twin watchtowers built right into an overhanging cliff above the Argun River.",
+    "image": "/images/places/ushkaloy.jpg"
+  },
+  {
+    "id": "tsoy-pede",
+    "republicId": "chechnya",
+    "name": "Tsoy-Pede",
+    "type": "cultural",
+    "coordinate": [42.6600, 45.3000],
+    "address": "Malkhista",
+    "description": "An ancient \"city of the dead\" — the largest necropolis in Chechnya, with crypts and battle towers.",
+    "image": "/images/places/tsoy-pede.jpg"
+  },
+  {
+    "id": "nikhaloy",
+    "republicId": "chechnya",
+    "name": "Nikhaloy Waterfalls",
+    "type": "natural",
+    "coordinate": [42.9700, 45.6200],
+    "address": "Shatoysky District",
+    "description": "A cascade of waterfalls in the Argun Gorge with an equipped eco-trail.",
+    "image": "/images/places/nikhaloy.jpg"
+  },
+
+  {
+    "id": "elbrus",
+    "republicId": "kabardino-balkaria",
+    "name": "Mount Elbrus",
+    "type": "natural",
+    "coordinate": [43.3550, 42.4392],
+    "address": "Elbrus Region",
+    "description": "The highest peak of Russia and Europe (5642 m), a dormant volcano and a hub of mountain tourism.",
+    "image": "/images/places/elbrus.jpg"
+  },
+  {
+    "id": "blue-lakes",
+    "republicId": "kabardino-balkaria",
+    "name": "Blue Lakes (Tserik-Kel)",
+    "type": "natural",
+    "coordinate": [43.2333, 43.8667],
+    "address": "Chereksky District",
+    "description": "A karst lake with deep-blue water and a depth of more than 250 metres.",
+    "image": "/images/places/blue-lakes.jpg"
+  },
+  {
+    "id": "chegem-falls",
+    "republicId": "kabardino-balkaria",
+    "name": "Chegem Waterfalls",
+    "type": "natural",
+    "coordinate": [43.3833, 43.1833],
+    "address": "Chegem Gorge",
+    "description": "A group of waterfalls plunging from the cliffs of the gorge; in winter they turn into ice columns.",
+    "image": "/images/places/chegem-falls.jpg"
+  },
+  {
+    "id": "verkhnaya-balkaria",
+    "republicId": "kabardino-balkaria",
+    "name": "Upper Balkaria",
+    "type": "cultural",
+    "coordinate": [43.0500, 43.4200],
+    "address": "Chereksky District",
+    "description": "An ancient mountain society with the ruins of clan towers and castles on the gorge slopes.",
+    "image": "/images/places/verkhnaya-balkaria.jpg"
+  },
+  {
+    "id": "el-tyubyu",
+    "republicId": "kabardino-balkaria",
+    "name": "El-Tyubyu (City of the Dead)",
+    "type": "cultural",
+    "coordinate": [43.3000, 43.1300],
+    "address": "Chegem Gorge",
+    "description": "An old village with the Balkarukov tower and a medieval crypt necropolis.",
+    "image": "/images/places/el-tyubyu.jpg"
+  },
+  {
+    "id": "azau",
+    "republicId": "kabardino-balkaria",
+    "name": "Azau Glade",
+    "type": "natural",
+    "coordinate": [43.2650, 42.4850],
+    "address": "Elbrus Region",
+    "description": "A high-mountain glade at 2300 m — the start of the cable cars and ski slopes of Elbrus.",
+    "image": "/images/places/azau.jpg"
+  },
+
+  {
+    "id": "dombay",
+    "republicId": "karachay-cherkessia",
+    "name": "Dombay",
+    "type": "natural",
+    "coordinate": [43.2944, 41.6219],
+    "address": "Dombay Glade",
+    "description": "A famous mountain resort surrounded by the peaks of the Main Caucasus Range.",
+    "image": "/images/places/dombay.jpg"
+  },
+  {
+    "id": "arkhyz",
+    "republicId": "karachay-cherkessia",
+    "name": "Arkhyz",
+    "type": "natural",
+    "coordinate": [43.5667, 41.2833],
+    "address": "Zelenchuksky District",
+    "description": "A mountain valley with lakes, pine forests and some of the clearest skies for astronomy.",
+    "image": "/images/places/arkhyz.jpg"
+  },
+  {
+    "id": "nizhny-arkhyz",
+    "republicId": "karachay-cherkessia",
+    "name": "Nizhny Arkhyz Temples",
+    "type": "cultural",
+    "coordinate": [43.6869, 41.4683],
+    "address": "Nizhny Arkhyz",
+    "description": "Alan Christian temples of the 10th century — the oldest in Russia.",
+    "image": "/images/places/nizhny-arkhyz.jpg"
+  },
+  {
+    "id": "sofia-falls",
+    "republicId": "karachay-cherkessia",
+    "name": "Sofia Waterfalls",
+    "type": "natural",
+    "coordinate": [43.4500, 41.1800],
+    "address": "Arkhyz",
+    "description": "Powerful waterfalls flowing from the glaciers of Mount Sofia, dropping about 90 metres.",
+    "image": "/images/places/sofia-falls.jpg"
+  },
+  {
+    "id": "teberda",
+    "republicId": "karachay-cherkessia",
+    "name": "Teberda Reserve",
+    "type": "natural",
+    "coordinate": [43.4500, 41.7400],
+    "address": "Teberda",
+    "description": "A biosphere reserve with a hundred mountain lakes, glaciers and bison.",
+    "image": "/images/places/teberda.jpg"
+  },
+  {
+    "id": "honey-falls",
+    "republicId": "karachay-cherkessia",
+    "name": "Honey Waterfalls",
+    "type": "natural",
+    "coordinate": [43.8500, 42.5500],
+    "address": "Malokarachaevsky District",
+    "description": "A cascade of five waterfalls in the Alikonovka gorge near Kislovodsk.",
+    "image": "/images/places/honey-falls.jpg"
+  },
+
+  {
+    "id": "dargavs",
+    "republicId": "north-ossetia",
+    "name": "Dargavs City of the Dead",
+    "type": "cultural",
+    "coordinate": [42.8333, 44.4333],
+    "address": "Prigorodny District",
+    "description": "The largest medieval necropolis in the Caucasus — nearly a hundred stone crypt tombs.",
+    "image": "/images/places/dargavs.jpg"
+  },
+  {
+    "id": "tsey",
+    "republicId": "north-ossetia",
+    "name": "Tsey Gorge",
+    "type": "natural",
+    "coordinate": [42.8000, 43.9000],
+    "address": "Alagirsky District",
+    "description": "A picturesque gorge with glaciers, the Rekom sanctuary and the Tsey mountain resort.",
+    "image": "/images/places/tsey.jpg"
+  },
+  {
+    "id": "midagrabin",
+    "republicId": "north-ossetia",
+    "name": "Midagrabin Waterfalls",
+    "type": "natural",
+    "coordinate": [42.7500, 44.4500],
+    "address": "Midagrabin Valley",
+    "description": "Among the highest waterfalls in Russia and Europe — the Greater Zeygelan falls from over 600 metres.",
+    "image": "/images/places/midagrabin.jpg"
+  },
+  {
+    "id": "dzivgis",
+    "republicId": "north-ossetia",
+    "name": "Dzivgis Rock Fortress",
+    "type": "cultural",
+    "coordinate": [42.8500, 44.3000],
+    "address": "Kurtatinsky Gorge",
+    "description": "A unique medieval fortress built into the natural caves of a sheer cliff.",
+    "image": "/images/places/dzivgis.jpg"
+  },
+  {
+    "id": "kurtatinskoe",
+    "republicId": "north-ossetia",
+    "name": "Kurtatinsky Gorge",
+    "type": "natural",
+    "coordinate": [42.8800, 44.3100],
+    "address": "Alagirsky District",
+    "description": "One of the most beautiful gorges of Ossetia, with towers, a monastery and mountain ravines.",
+    "image": "/images/places/kurtatinskoe.jpg"
+  },
+  {
+    "id": "rekom",
+    "republicId": "north-ossetia",
+    "name": "Rekom Sanctuary",
+    "type": "cultural",
+    "coordinate": [42.8000, 43.9200],
+    "address": "Tsey Gorge",
+    "description": "An ancient wooden Ossetian sanctuary, one of the main sacred sites of the traditional religion.",
+    "image": "/images/places/rekom.jpg"
+  }
+]
