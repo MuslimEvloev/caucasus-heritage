@@ -1,16 +1,133 @@
-# React + Vite
+# Caucasus Heritage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Интерактивный WEB-сайт для популяризации историко-культурного наследия Северного Кавказа.**
 
-Currently, two official plugins are available:
+Выпускная квалификационная работа (ВКР) бакалавра, НИТУ МИСиС.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐 **Демо:** https://caucasus-heritage.vercel.app/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## О проекте
 
-## Expanding the ESLint configuration
+Caucasus Heritage — одностраничное (SPA) веб-приложение, которое объединяет в одном месте
+историю, национальную кухню и туристические маршруты шести республик Северного Кавказа:
+**Ингушетия, Чечня, Дагестан, Кабардино-Балкария, Карачаево-Черкесия, Северная Осетия.**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Цель — повысить доступность, наглядность и структурированность информации о регионе
+и дать пользователю инструменты для самостоятельного планирования путешествия.
+
+Весь контент берётся из локальных JSON-файлов (паттерн DataStore), серверная часть
+отсутствует — учётные данные, сохранённые маршруты, отзывы и настройки хранятся в LocalStorage.
+
+## Возможности
+
+- 🏛 **История** — сетка из 6 республик и подробная страница по каждой: хронология,
+  тематические блоки, знаковые личности, интересные факты и галерея историко-культурных памятников.
+- 🍽 **Кухня** — традиционные блюда каждой республики с фотографиями и интерактивная
+  карта заведений национальной кухни («Где попробовать»).
+- 🗺 **Маршруты** — построение собственного маршрута на интерактивной карте Leaflet:
+  клик по объектам, расчёт расстояния и длительности, сохранение в LocalStorage.
+- 💬 **Отзывы (форма обратной связи)** — оценка 1–5 и комментарий с валидацией, привязка к региону и автору.
+- 🔐 **Регистрация и авторизация** — модальные окна, пароли хранятся в виде хеша (LocalStorage).
+- 🌍 **Мультиязычность** — полный перевод интерфейса и контента RU / EN.
+- 🌗 **Переключение темы** — светлая / тёмная (требование доступности ГОСТ Р 52872-2019).
+- 📱 **Адаптивность** — mobile-first, корректная вёрстка от 360px.
+
+## Технологический стек
+
+| Категория | Технологии |
+|-----------|------------|
+| Frontend  | React 19, Vite 8 |
+| Маршрутизация | React Router 7 |
+| Карты | Leaflet 1.9 + react-leaflet 5 (тайлы OpenStreetMap / CARTO Voyager) |
+| Данные | JSON-файлы (DataStore), без бэкенда |
+| Хранилище | LocalStorage (сессия, маршруты, отзывы, язык, тема) |
+| Стили | CSS (CSS-переменные, Flexbox/Grid) |
+| Деплой | Vercel |
+
+> Внешние зависимости рантайма — только сервер тайлов OpenStreetMap / CARTO через Leaflet.
+
+## Быстрый старт
+
+Требуется **Node.js ≥ 20.19**.
+
+```bash
+# установка зависимостей
+npm install
+
+# запуск дев-сервера (http://localhost:5173)
+npm run dev
+
+# продакшен-сборка в ./dist
+npm run build
+
+# локальный просмотр собранной версии
+npm run preview
+
+# проверка кода линтером
+npm run lint
+```
+
+## Структура проекта
+
+Архитектура повторяет UML-модель из ВКР (слои моделей, сервисов и хранилища данных).
+
+```
+src/
+├── components/          # UI-компоненты по разделам
+│   ├── HomePage/        # Hero, SectionSelector, Header, Footer
+│   ├── HistoryPage/     # сетка республик + детальная страница истории
+│   ├── KitchenPage/     # сетка блюд + детальная страница кухни
+│   ├── RoutesPage/      # выбор республики + построение маршрута (Leaflet)
+│   ├── AuthForm/        # модальное окно регистрации/входа
+│   └── common/          # Breadcrumbs, SmartImage, LocationMap, ReviewsSection
+├── models/              # классы предметной области (UML):
+│                        #   Section → HistorySection / KitchenSection / RouteSection,
+│                        #   Republic, Place, Route, Map, User, HistoryContent
+├── services/            # бизнес-логика:
+│                        #   HistoryService, RouteService, AuthService, ReviewService
+├── data/                # контент в JSON + локализованные копии en/
+│   ├── *.json           # republics, places, dishes, kitchenDishes, restaurants, history (RU)
+│   ├── en/*.json        # те же данные на английском
+│   └── DataStore.js     # доступ к данным с учётом текущего языка
+├── context/             # AuthContext (состояние авторизации)
+├── i18n/                # LanguageContext, ThemeContext, strings.js (словарь интерфейса)
+├── utils/               # обёртка над LocalStorage
+└── styles/              # reset.css, global.css (токены), theme.css (тёмная тема)
+```
+
+## Контент
+
+- **6** республик Северного Кавказа
+- **37** природных и культурных объектов с координатами, описаниями и фотографиями
+- **24** традиционных блюда с фото
+- **24** заведения национальной кухни на карте
+- Развёрнутые исторические статьи по каждой республике (хронология, темы, личности, факты)
+
+Фотографии объектов и блюд получены из открытых источников (Wikimedia Commons / Wikipedia),
+оптимизированы по размеру. Для отсутствующих изображений предусмотрен аккуратный плейсхолдер.
+
+## Соответствие требованиям ВКР
+
+- **152-ФЗ (персональные данные):** явный чекбокс согласия при регистрации; пароли хранятся только в хешированном виде.
+- **ГОСТ Р 52872-2019 (доступность):** переключение светлой/тёмной темы, контраст текста, `alt` у изображений, навигация с клавиатуры, ARIA-атрибуты.
+- **Языковая доступность:** двуязычный интерфейс RU / EN.
+- **Форма обратной связи:** сбор пользовательских отзывов (сущность «Отзыв») с валидацией на стороне клиента.
+
+## Деплой
+
+Проект разворачивается на **Vercel** (автоопределение Vite).
+
+> Для корректной работы прямых ссылок на внутренние маршруты (например, `/history/dagestan`)
+> при обновлении страницы нужно настроить SPA-fallback — перенаправление всех путей на `index.html`
+> (файл `vercel.json` с rewrite `"/(.*)" → "/index.html"`).
+
+## Лицензия
+
+Учебный проект. Контент и изображения принадлежат их правообладателям и используются
+в некоммерческих образовательных целях.
+
+---
+
+**Автор:** Муслим Евлоев · НИТУ МИСиС · 2026
